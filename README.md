@@ -2,7 +2,7 @@
 <img align="right" width="40%" src="./assets/757a4ed3d9e6fdf7dcbbad972bd2e72c.gif" alt="coding developer" />
 
 
-- **Name**: Leonardo Pinho
+- 📄 **Name**: Leonardo Pinho
 - **🏠 From**: Brasília, Brazil.
 - **🎓 Degree**: 
   - MBA | FullCycle Architeture ( Software Arch | Devops & SRE | Solution Arch )
