@@ -36,7 +36,7 @@
 
 **Pretty interessed (soon)**
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,ktor,gcp,cloudflare,gitlab,jenkins&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=kotlin,rust,gcp,cloudflare,gitlab,jenkins&theme=light)]()
 <img alt="elastic stack" src="https://cdn.freebiesupply.com/logos/large/2x/elastic-stack-logo-png-transparent.png" width="46px" height="46px">
 <br/>
 
