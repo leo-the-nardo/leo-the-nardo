@@ -1,4 +1,3 @@
-<img src="./assets/header.svg">
 # Hello , i'm Leo 👋
 <img align="right" width="40%" src="./assets/757a4ed3d9e6fdf7dcbbad972bd2e72c.gif" alt="coding developer" />
 
