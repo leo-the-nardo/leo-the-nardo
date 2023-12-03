@@ -1,0 +1,69 @@
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+   <foreignObject width="100%" height="100%">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+         <style>/* The typing effect */
+            @keyframes typing {
+            from { width: 0 }
+            to { width: 100% }
+            }
+            @keyframes blink-caret {
+            from, to { border-color: transparent }
+            50% { border-color: pink; }
+            }
+            @keyframes gradient-animation {
+            0% {
+            background-position: 0% 50%;
+            }
+            50% {
+            background-position: 100% 50%;
+            }
+            100% {
+            background-position: 0% 50%;
+            }
+            }
+
+            h1 {
+            overflow: hidden; /* Ensures the content is not revealed until the animation */
+            border-right: .15em solid orange; /* The typwriter cursor */
+            white-space: nowrap; /* Keeps the content on a single line */
+            margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+            letter-spacing: 2px; /* Adjust as needed */
+            animation:
+            typing 3.5s steps(40, end),
+            blink-caret .75s step-end infinite;
+            }
+
+            .container {
+            font-family:
+            system-ui,
+            -apple-system,
+            'Segoe UI',
+            Roboto,
+            Helvetica,
+            Arial,
+            sans-serif,
+            'Apple Color Emoji',
+            'Segoe UI Emoji';
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            margin: 0;
+            width: 100%;
+            height: 200px;
+            background: linear-gradient(221deg,#4cab4f,#a472e2,#ed7ab9,#f05862);
+            background-size: 240% 240%;
+            animation: gradient-animation 12s ease infinite;
+            border-radius: 10px;
+            color: white;
+            text-align: center;
+            }
+
+
+         </style>
+         <div class="container">
+            <h1>Hello , i'm Leo 👋, Software Engineer.</h1>
+         </div>
+      </div>
+   </foreignObject>
+</svg>
