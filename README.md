@@ -1,3 +1,4 @@
+<img src="./assets/header.svg">
 # Hello , i'm Leo 👋
 <img align="right" width="40%" src="./assets/757a4ed3d9e6fdf7dcbbad972bd2e72c.gif" alt="coding developer" />
 
@@ -8,8 +9,9 @@
   - MBA | FullCycle Architeture ( Software Arch | Devops & SRE | Solution Arch )
   - Technologist | Software Analysis and Development
 - I'm a Full-stack Developer with a specialized focus on back-end development.
-- Additionally, I have a deep interest in Software Architecture, System Design and DevOps practices.
-
+- One Piece & Spy Family lover.
+- Deep interest in Software Architecture, System Design and DevOps practices.
+- Also entertained by personal SaaS & UX side projects
 ## My Tech Stack
 
 **Back-End**
