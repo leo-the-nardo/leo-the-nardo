@@ -3,7 +3,7 @@
 
 
 - 📄 **Name**: Leonardo Pinho
-- **🏠 From**: Brasília, Brazil.
+- **🏠 From**: Brasília & São Paulo, Brazil.
 - **🎓 Degree**: 
   - MBA | FullCycle Architeture ( Software Arch | Devops & SRE | Solution Arch )
   - Technologist | Software Analysis and Development
