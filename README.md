@@ -36,12 +36,16 @@
 
 **Pretty interessed (soon)**
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,rust,gcp,cloudflare,gitlab,jenkins&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=kotlin,elixir,gcp,cloudflare,gitlab,jenkins&theme=light)]()
 <img alt="elastic stack" src="https://cdn.freebiesupply.com/logos/large/2x/elastic-stack-logo-png-transparent.png" width="46px" height="46px">
-<br/>
+<img alt="oracle" src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Symbol-700x394.png" height="38px">
 
 <br/>
-<br/>
-
-<p align="left">
-</p>
+<div>
+    <a target='_blank' href="https://www.linkedin.com/in/leonardo-pinho-09429b262/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a target='_blank' href="https://discord.com/users/206650261173829642">
+        <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+    </a>
+</div>
