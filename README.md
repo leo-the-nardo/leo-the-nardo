@@ -44,8 +44,8 @@
 
 - Event Driven Architeture | Multi-Tenant Architeture | Serverless Architeture | Monolithic architecture | Microsservices | Distributed Architeture
 - Clean Architeture | Domain Driven Design (DDD) | Hexagonal Architeture | MVC | CQRS
-- SOLID | KISS | DRY | YAGNI | ACID | OOP  Principles
-- Back-end for Frontend (BFF) | Horizontal Scalling | Reliability | CAP |  Cloud Design Patterns | Cloud Computing
+- SOLID | KISS | DRY | YAGNI | ACID  | OOP  Principles
+- Cloud Design Patterns | Cloud Computing | Horizontal Scalling | Back-end for Frontend (BFF) | Reliability | CAP
 
 
 
