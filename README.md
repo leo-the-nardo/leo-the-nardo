@@ -39,8 +39,15 @@
 [![My Skills](https://skillicons.dev/icons?i=kotlin,elixir,gcp,cloudflare,jenkins&theme=light)]()
 <img alt="elastic stack" src="https://cdn.freebiesupply.com/logos/large/2x/elastic-stack-logo-png-transparent.png" width="46px" height="46px">
 <img alt="oracle" src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Symbol-700x394.png" height="38px">
-
 <br/>
+## Technology-Agnostic Knowledges
+
+- Event Driven Architeture | Multi-Tenant Architeture | Serverless Architeture | Monolithic architecture | Microsservices | Distributed Architeture
+- Clean Architeture | Domain Driven Design (DDD) | Hexagonal Architeture | MVC | CQRS
+- SOLID | KISS | DRY | YAGNI | OOP Principles
+- Back-end for Frontend (BFF) | Horizontal Scalling | Reliability | Cloud Design Patterns | Cloud Computing
+
+
 
 **Social**
 
