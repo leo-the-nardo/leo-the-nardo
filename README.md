@@ -8,9 +8,9 @@
   - MBA | FullCycle Architeture ( Software Arch | Devops & SRE | Solution Arch )
   - Technologist | Software Analysis and Development
 - I'm a Full-stack Developer with a specialized focus on back-end development.
-- One Piece & Spy Family lover.
+- Spy Family & One Piece Lover.
 - Deep interest in Software Architecture, System Design and DevOps practices.
-- Also entertained by personal SaaS & UX side projects
+- Also entertained by personal SaaS side projects
 ## My Tech Stack
 
 **Back-End**
@@ -45,7 +45,7 @@
 - Event Driven Architeture | Multi-Tenant Architeture | Serverless Architeture | Monolithic architecture | Microsservices | Distributed Architeture
 - Clean Architeture | Domain Driven Design (DDD) | Hexagonal Architeture | MVC | CQRS
 - SOLID | KISS | DRY | YAGNI | OOP Principles
-- Back-end for Frontend (BFF) | Horizontal Scalling | Reliability | Cloud Design Patterns | Cloud Computing
+- Back-end for Frontend (BFF) | Horizontal Scalling | Reliability | CAP |  Cloud Design Patterns | Cloud Computing
 
 
 
