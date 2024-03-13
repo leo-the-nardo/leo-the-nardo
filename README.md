@@ -44,8 +44,9 @@
 
 - Event Driven Architeture | Multi-Tenant Architeture | Serverless Architeture | Monolithic architecture | Microsservices | Distributed Architeture
 - Clean Architeture | Domain Driven Design (DDD) | Hexagonal Architeture | MVC | CQRS
-- SOLID | KISS | DRY | YAGNI | ACID  | TDD | OOP Principles
-- Cloud Design Patterns | Cloud Computing | Horizontal Scalling | Load Balancing | Sidecar | BFF | Reliability | CAP
+- Principles | SOLID | KISS | DRY | YAGNI | ACID  | TDD | OOP 
+- Cloud Design Patterns | Cloud Computing | Horizontal Scalling | Load Balancing | Sidecar | BFF | Bastion Host | Reliability | CAP | Circuit-Breaker | Service Mesh
+- Deploy Strategies | CI | CD | Blue-green | Canary | Infrastructure as Code (IaC) | Containerization | A/B Testing | Monitoring | Observability
 
 
 **Social**
