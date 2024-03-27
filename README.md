@@ -21,7 +21,7 @@
 
 **DevOps**
 
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,github,grafana,prometheus,nginx,ansible)]()
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,github,gitlab,jenkins,grafana,prometheus,nginx,ansible)]()
 <img alt="terraform" src="./assets/terraform-icon.svg" width="46px" height="46px">
 
 **Front-End**
