@@ -63,4 +63,7 @@
     <a target='_blank' href="https://discord.com/users/206650261173829642">
         <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
     </a>
+    <a target='_blank' href="https://gitlab.com/leothenardo">
+        <img src="https://img.shields.io/badge/Gitlab-FF7D19.svg?style=for-the-badge&logo=gitlab&logoColor=white">
+    </a>
 </div>
