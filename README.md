@@ -21,8 +21,12 @@
 
 **DevOps**
 
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,github,gitlab,jenkins,grafana,prometheus,nginx,ansible)]()
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,grafana,prometheus,nginx,ansible)]()
 <img alt="terraform" src="./assets/terraform-icon.svg" width="46px" height="46px">
+<br/>
+[![My Skills](https://skillicons.dev/icons?i=github,gitlab,jenkins&theme=light)]()
+<img alt="sonarcube" src="https://rtfm.co.ua/wp-content/uploads/2019/06/sonarqube-logo.png" width="46px" height="46px">
+<img alt="nexus" src="https://www.sonatype.com/hubfs/2-2023-Product%20Logos/sonatype-repo-icon.png" width="46px" height="46px">
 
 **Front-End**
 
@@ -36,7 +40,7 @@
 
 **Pretty interessed (soon)**
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,elixir,gcp,cloudflare,jenkins&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=kotlin,elixir,gcp,cloudflare&theme=light)]()
 <img alt="elastic stack" src="https://cdn.freebiesupply.com/logos/large/2x/elastic-stack-logo-png-transparent.png" width="46px" height="46px">
 <img alt="oracle" src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Symbol-700x394.png" height="38px">
 <br/>
