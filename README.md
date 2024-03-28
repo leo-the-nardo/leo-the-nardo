@@ -25,7 +25,7 @@
 <img alt="terraform" src="./assets/terraform-icon.svg" width="46px" height="46px">
 <br/>
 [![My Skills](https://skillicons.dev/icons?i=github,gitlab,jenkins&theme=light)]()
-<img alt="sonarcube" src="https://rtfm.co.ua/wp-content/uploads/2019/06/sonarqube-logo.png" width="46px" height="46px">
+<img alt="sonarqube" src="https://rtfm.co.ua/wp-content/uploads/2019/06/sonarqube-logo.png" width="46px" height="46px">
 <img alt="nexus" src="https://www.sonatype.com/hubfs/2-2023-Product%20Logos/sonatype-repo-icon.png" width="46px" height="46px">
 
 **Front-End**
