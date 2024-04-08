@@ -21,8 +21,7 @@
 
 **DevOps**
 
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,grafana,prometheus,nginx,ansible)]()
-<img alt="terraform" src="./assets/terraform-icon.svg" width="46px" height="46px">
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,grafana,prometheus,nginx,ansible,terraform)]()
 <br/>
 [![My Skills](https://skillicons.dev/icons?i=github,gitlab,jenkins&theme=light)]()
 <img alt="sonarqube" src="https://rtfm.co.ua/wp-content/uploads/2019/06/sonarqube-logo.png" width="46px" height="46px">
