@@ -39,7 +39,7 @@
 
 **Pretty interessed (soon)**
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,elixir,gcp,cloudflare&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=python,flask,gcp,cloudflare&theme=light)]()
 <img alt="elastic stack" src="https://cdn.freebiesupply.com/logos/large/2x/elastic-stack-logo-png-transparent.png" width="46px" height="46px">
 <img alt="oracle" src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Symbol-700x394.png" height="38px">
 <br/>
