@@ -15,9 +15,10 @@
 
 **Back-End**
 
-[![My Skills](https://skillicons.dev/icons?i=golang,java,spring,nodejs,nestjs,express,fastify&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=golang,java,spring,python,flask,nodejs,nestjs,express,fastify&theme=light)]()
 <br/>
-[![My Skills](https://skillicons.dev/icons?i=rabbitmq,kafka,graphql,redis,mysql,postgresql,dynamodb,mongodb&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=rabbitmq,kafka,graphql,redis,mysql,postgresql,dynamodb,mongodb,elasticsearch&theme=light)]()
+<img alt="elastic stack" src="https://cdn.freebiesupply.com/logos/large/2x/elastic-stack-logo-png-transparent.png" width="46px" height="46px">
 
 **DevOps**
 
@@ -39,8 +40,7 @@
 
 **Pretty interessed (soon)**
 
-[![My Skills](https://skillicons.dev/icons?i=python,flask,gcp,cloudflare&theme=light)]()
-<img alt="elastic stack" src="https://cdn.freebiesupply.com/logos/large/2x/elastic-stack-logo-png-transparent.png" width="46px" height="46px">
+[![My Skills](https://skillicons.dev/icons?i=gcp,cloudflare,openshift,redhat&theme=light)]()
 <img alt="oracle" src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Symbol-700x394.png" height="38px">
 <br/>
 ## Technology-Agnostic Knowledges
