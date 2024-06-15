@@ -10,7 +10,7 @@
 - I'm actually a Software Engineer focusing on DevSecOps/Platform Engineering.
 - One Piece Obsessed.
 - Deep interest in Software Architecture, System Design and DevOps practices.
-- Also entertained by personal SaaS side projects
+- Also a CyberSecurity enthusiast
 ## My Tech Stack
 
 **Back-End**
