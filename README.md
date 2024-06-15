@@ -7,8 +7,8 @@
 - **🎓 Degree**: 
   - MBA | FullCycle Architeture ( Software Arch | Devops & SRE | Solution Arch )
   - Technologist | Software Analysis and Development
-- I'm a Full-stack Developer with a specialized focus on back-end development.
-- Spy Family & One Piece Lover.
+- I'm actually a Software Engineer focusing on DevSecOps/Platform Engineering.
+- One Piece Obsessed.
 - Deep interest in Software Architecture, System Design and DevOps practices.
 - Also entertained by personal SaaS side projects
 ## My Tech Stack
@@ -49,7 +49,8 @@
 - Clean Architeture | Domain Driven Design (DDD) | Hexagonal Architeture | MVC | CQRS
 - Principles | SOLID | KISS | DRY | YAGNI | ACID  | TDD | OOP
 - API's | HTTP | gRPC | REST | GraphQL | REST | Webhook | Server Sent Events(SSE)
-- Deploy Strategies | CI | CD | Blue-green | Canary | Infrastructure as Code (IaC) | Containerization | A/B Testing | Monitoring | Observability
+- Deploy Strategies | CI | CD | Blue-green | Canary | Infrastructure as Code (IaC) | Containerization | A/B Testing
+- Observability | APM | Distributed Tracing | Monitoring | Session Replay | Logging | ETL | Instrumentation
 - Cloud Design Patterns | Cloud Computing | Horizontal Scalling | Load Balancing | Sidecar | BFF | Bastion Host | Reliability | CAP | Circuit-Breaker | API-Gateway | Service Mesh
 
 
