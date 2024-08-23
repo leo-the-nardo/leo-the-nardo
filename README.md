@@ -28,18 +28,22 @@
 <img alt="sonarqube" src="https://rtfm.co.ua/wp-content/uploads/2019/06/sonarqube-logo.png" width="46px" height="46px">
 <img alt="nexus" src="https://www.sonatype.com/hubfs/2-2023-Product%20Logos/sonatype-repo-icon.png" width="46px" height="46px">
 <br/>
+<a href="https://istio.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" alt="Istio" width="40" height="40"/> </a>
+<a href="https://www.zabbix.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" alt="zabbix" width="40" height="40"/> </a>
+<a href="https://helm.sh/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="Helm" width="40" height="40"/> </a>
+<a href="https://argoproj.github.io/cd/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original.svg" alt="argocd" width="40" height="40"/> </a>
+<a href="https://backstage.io/" target="_blank" rel="noreferrer"> <img src="https://backstage.io/logo_assets/svg/Icon_Gradient.svg" alt="backstage" width="40" height="40"/> </a>
 <img alt="elastic stack" src="https://blog.zachinachshon.com/assets/images/containers/k3s/k3s-blog-220x230.png" width="46px" height="46px">
 <img alt="elastic stack" src="https://www.ajfriesen.com/content/images/2021/06/featured-2.png" height="46px">
 <img alt="elastic stack" src="https://the.binbashtheory.com/rke-logo.png" height="46px">
 <img alt="elastic stack" src="https://raw.githubusercontent.com/containers/common/main/logos/podman-logo-full-vert.png" height="46px">
+<br/>
 <img alt="elastic stack" src="https://www.svgrepo.com/show/353978/kong-icon.svg" width="38px" height="38px">
 <img alt="elastic stack" src="https://atitudereflexiva.wordpress.com/wp-content/uploads/2020/04/vagrant.png" height="48px">
-<br/>
 <img alt="elastic stack" src="https://image.pngaaa.com/822/2918822-middle.png" height="48px">
 <img alt="elastic stack" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/800px-Vmware_workstation_16_icon.svg.png" height="42px">
 <img alt="elastic stack" src="https://www.brighttalk.com/wp-content/uploads/2019/10/Nutanix-icon.jpg" height="52px">
-<img alt="elastic stack" src="https://cdn.worldvectorlogo.com/logos/zabbix-1.svg" height="32px">
-
+</p>
 
 **Front-End**
 
