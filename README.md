@@ -38,6 +38,7 @@
 <img alt="elastic stack" src="https://the.binbashtheory.com/rke-logo.png" height="46px">
 <img alt="elastic stack" src="https://raw.githubusercontent.com/containers/common/main/logos/podman-logo-full-vert.png" height="46px">
 <br/>
+<img src="http://thinkmicroservices.com/img/kubernetes/amazon-eks.png" alt="EKS" width="" height="70"/>
 <img alt="elastic stack" src="https://www.svgrepo.com/show/353978/kong-icon.svg" width="38px" height="38px">
 <img alt="elastic stack" src="https://atitudereflexiva.wordpress.com/wp-content/uploads/2020/04/vagrant.png" height="48px">
 <img alt="elastic stack" src="https://image.pngaaa.com/822/2918822-middle.png" height="48px">
