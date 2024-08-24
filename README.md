@@ -72,6 +72,7 @@
 - Cloud Design Patterns | Cloud Computing | Horizontal Scalling | Load Balancing | Sidecar | BFF | Bastion Host | Reliability | CAP | Circuit-Breaker | API-Gateway | Service Mesh
 
 
+
 **Social**
 
 <div>
