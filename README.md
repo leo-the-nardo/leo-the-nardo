@@ -7,10 +7,9 @@
 - **🎓 Degree**: 
   - MBA | FullCycle Architeture ( Software Arch | Devops & SRE | Solution Arch )
   - Technologist | Software Analysis and Development
-- I'm actually a Software Engineer focusing on DevSecOps/Platform Engineering.
+- I'm actually a Software Engineer focusing on Cloud Computing & SRE.
 - One Piece Obsessed.
 - Deep interest in Software Architecture, System Design and DevOps practices.
-- Also a CyberSecurity enthusiast
 ## My Tech Stack
 
 **Back-End**
