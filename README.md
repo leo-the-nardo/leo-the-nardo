@@ -22,7 +22,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,grafana,prometheus,nginx,ansible,terraform)]()
 <br/>
-[![My Skills](https://skillicons.dev/icons?i=cloudflare,redhat,github,gitlab,jenkins&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=cloudflare,gcp,redhat,github,gitlab,jenkins&theme=light)]()
 <img alt="elastic stack" src="https://cdn.freebiesupply.com/logos/large/2x/elastic-stack-logo-png-transparent.png" width="46px" height="46px">
 <img alt="sonarqube" src="https://rtfm.co.ua/wp-content/uploads/2019/06/sonarqube-logo.png" width="46px" height="46px">
 <img alt="nexus" src="https://www.sonatype.com/hubfs/2-2023-Product%20Logos/sonatype-repo-icon.png" width="46px" height="46px">
@@ -39,10 +39,11 @@
 <br/>
 <img src="http://thinkmicroservices.com/img/kubernetes/amazon-eks.png" alt="EKS" width="" height="70"/>
 <img alt="elastic stack" src="https://www.svgrepo.com/show/353978/kong-icon.svg" width="38px" height="38px">
-<img alt="elastic stack" src="https://atitudereflexiva.wordpress.com/wp-content/uploads/2020/04/vagrant.png" height="48px">
-<img alt="elastic stack" src="https://image.pngaaa.com/822/2918822-middle.png" height="48px">
 <img alt="elastic stack" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/800px-Vmware_workstation_16_icon.svg.png" height="42px">
 <img alt="elastic stack" src="https://www.brighttalk.com/wp-content/uploads/2019/10/Nutanix-icon.jpg" height="52px">
+<img alt="elastic stack" src="https://github.com/user-attachments/assets/0a710c60-198e-4e47-be87-301057c26d7b" height="52px">
+
+
 </p>
 
 **Front-End**
@@ -57,7 +58,7 @@
 
 **Pretty interessed (soon)**
 
-[![My Skills](https://skillicons.dev/icons?i=gcp,openshift&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=cassandra,openshift&theme=light)]()
 <img alt="oracle" src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Symbol-700x394.png" height="38px">
 <br/>
 ## Technology-Agnostic Knowledges
@@ -67,6 +68,7 @@
 - Principles | SOLID | KISS | DRY | YAGNI | ACID  | TDD | OOP
 - API's | HTTP | gRPC | REST | GraphQL | REST | Webhook | Server Sent Events(SSE)
 - Deploy Strategies | CI | CD | Blue-green | Canary | Infrastructure as Code (IaC) | Containerization | A/B Testing
+- Data Lakes | Data Warehouses | Data Mesh | Data Lakehouse | ETL | ELT
 - Observability | APM | Distributed Tracing | Monitoring | Session Replay | Logging | ETL | Instrumentation
 - Cloud Design Patterns | Cloud Computing | Horizontal Scalling | Load Balancing | Sidecar | BFF | Bastion Host | Reliability | CAP | Circuit-Breaker | API-Gateway | Service Mesh
 
@@ -85,3 +87,4 @@
         <img src="https://img.shields.io/badge/Gitlab-FF7D19.svg?style=for-the-badge&logo=gitlab&logoColor=white">
     </a>
 </div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-the-nardo&hide=html,powershell,css&size_weight=0.1&count_weight=0&langs_count=5&layout=compact&theme=default">
