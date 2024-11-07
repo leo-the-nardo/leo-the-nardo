@@ -18,7 +18,7 @@
 <br/>
 [![My Skills](https://skillicons.dev/icons?i=rabbitmq,kafka,graphql,redis,mysql,postgresql,dynamodb,mongodb,elasticsearch&theme=light)]()
 
-**DevOps/Infra**
+**DevOps/Infra/SRE**
 
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,grafana,prometheus,nginx,ansible,terraform)]()
 <br/>
@@ -35,16 +35,19 @@
 <img alt="elastic stack" src="https://blog.zachinachshon.com/assets/images/containers/k3s/k3s-blog-220x230.png" width="46px" height="46px">
 <img alt="elastic stack" src="https://www.ajfriesen.com/content/images/2021/06/featured-2.png" height="46px">
 <img alt="elastic stack" src="https://the.binbashtheory.com/rke-logo.png" height="46px">
-<img alt="elastic stack" src="https://raw.githubusercontent.com/containers/common/main/logos/podman-logo-full-vert.png" height="46px">
 <br/>
 <img src="http://thinkmicroservices.com/img/kubernetes/amazon-eks.png" alt="EKS" width="" height="70"/>
 <img alt="elastic stack" src="https://www.svgrepo.com/show/353978/kong-icon.svg" width="38px" height="38px">
-<img alt="elastic stack" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/800px-Vmware_workstation_16_icon.svg.png" height="42px">
 <img alt="elastic stack" src="https://www.brighttalk.com/wp-content/uploads/2019/10/Nutanix-icon.jpg" height="52px">
 <img alt="elastic stack" src="https://github.com/user-attachments/assets/0a710c60-198e-4e47-be87-301057c26d7b" height="52px">
 
 
 </p>
+
+**Data Engineering**
+
+<img alt="elastic stack" src="https://github.com/apache/airflow/raw/19ebcac2395ef9a6b6ded3a2faa29dc960c1e635/docs/apache-airflow/img/logos/wordmark_1.png?raw=true" height="40"> <img alt="elastic stack" src="https://i0.wp.com/blog.dsacademy.com.br/wp-content/uploads/2023/06/Apache-Spark-logo.png?w=1200&ssl=1" height="40"> <img alt="elastic stack" src="https://camo.githubusercontent.com/e5edadcf5a70fd53f113fa35bc4ec2f994b4f811166e7685e975978cdeb9e8d8/68747470733a2f2f646f63732e64656c74612e696f2f6c61746573742f5f7374617469632f64656c74612d6c616b652d77686974652e706e67" height="40">
+
 
 **Front-End**
 
@@ -60,7 +63,14 @@
 
 [![My Skills](https://skillicons.dev/icons?i=cassandra,openshift&theme=light)]()
 <img alt="oracle" src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Symbol-700x394.png" height="38px">
+<img alt="bigquery" src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" height="38px">
+<img alt="dbt" src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" height="38px">
+<img alt="snowflake" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" height="30px">
+<img alt="pinot" src="https://pbs.twimg.com/profile_images/1765011034769678336/2cJ1c1M7_400x400.png" height="38px">
+<img alt="clickhouse" src="https://clickhouse.com/_next/static/media/logo-full.ac8102d5.svg" height="30px">
+
 <br/>
+
 ## Technology-Agnostic Knowledges
 
 - Event Driven Architeture | Multi-Tenant Architeture | Serverless Architeture | Monolithic architecture | Microsservices | Distributed Architeture
