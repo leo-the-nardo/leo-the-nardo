@@ -62,7 +62,6 @@
 **Pretty interessed (soon)**
 
 [![My Skills](https://skillicons.dev/icons?i=cassandra,openshift&theme=light)]()
-<img alt="oracle" src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Symbol-700x394.png" height="38px">
 <img alt="bigquery" src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" height="38px">
 <img alt="dbt" src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" height="38px">
 <img alt="snowflake" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" height="30px">
