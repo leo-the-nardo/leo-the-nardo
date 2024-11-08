@@ -77,7 +77,7 @@
 - Principles | SOLID | KISS | DRY | YAGNI | ACID  | TDD | OOP
 - API's | HTTP | gRPC | REST | GraphQL | REST | Webhook | Server Sent Events(SSE)
 - Deploy Strategies | CI | CD | Blue-green | Canary | Infrastructure as Code (IaC) | Containerization | A/B Testing
-- Data Lakes | Data Warehouses | Data Mesh | Data Lakehouse | ETL | ELT
+- Data Lakes | Data Warehouses | Data Mesh | Data Lakehouse | ETL | ELT | Change Data Capture (CDC) | Change Data Feed (CDF) | Streaming | Batch
 - Observability | APM | Distributed Tracing | Monitoring | Session Replay | Logging | ETL | Instrumentation
 - Cloud Design Patterns | Cloud Computing | Horizontal Scalling | Load Balancing | Sidecar | BFF | Bastion Host | Reliability | CAP | Circuit-Breaker | API-Gateway | Service Mesh
 
