@@ -23,20 +23,21 @@
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,grafana,prometheus,nginx,ansible,terraform)]()
 <br/>
 [![My Skills](https://skillicons.dev/icons?i=cloudflare,gcp,redhat,github,gitlab,jenkins&theme=light)]()
+<br/>
 <img alt="elastic stack" src="https://cdn.freebiesupply.com/logos/large/2x/elastic-stack-logo-png-transparent.png" width="46px" height="46px">
 <img alt="sonarqube" src="https://rtfm.co.ua/wp-content/uploads/2019/06/sonarqube-logo.png" width="46px" height="46px">
 <img alt="nexus" src="https://www.sonatype.com/hubfs/2-2023-Product%20Logos/sonatype-repo-icon.png" width="46px" height="46px">
-<br/>
 <a href="https://istio.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" alt="Istio" width="40" height="40"/> </a>
 <a href="https://www.zabbix.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" alt="zabbix" width="40" height="40"/> </a>
 <a href="https://helm.sh/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="Helm" width="40" height="40"/> </a>
 <a href="https://argoproj.github.io/cd/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original.svg" alt="argocd" width="40" height="40"/> </a>
+<br/>
 <a href="https://backstage.io/" target="_blank" rel="noreferrer"> <img src="https://backstage.io/logo_assets/svg/Icon_Gradient.svg" alt="backstage" width="40" height="40"/> </a>
 <img alt="elastic stack" src="https://blog.zachinachshon.com/assets/images/containers/k3s/k3s-blog-220x230.png" width="46px" height="46px">
-<img alt="elastic stack" src="https://www.ajfriesen.com/content/images/2021/06/featured-2.png" height="46px">
+<img alt="elastic stack" src="https://www.ajfriesen.com/content/images/2021/06/featured-2.png" height="38px">
 <img alt="elastic stack" src="https://the.binbashtheory.com/rke-logo.png" height="46px">
-<br/>
 <img src="http://thinkmicroservices.com/img/kubernetes/amazon-eks.png" alt="EKS" width="" height="70"/>
+<br/>
 <img alt="elastic stack" src="https://www.svgrepo.com/show/353978/kong-icon.svg" width="38px" height="38px">
 <img alt="elastic stack" src="https://www.brighttalk.com/wp-content/uploads/2019/10/Nutanix-icon.jpg" height="52px">
 <img alt="elastic stack" src="https://github.com/user-attachments/assets/0a710c60-198e-4e47-be87-301057c26d7b" height="52px">
