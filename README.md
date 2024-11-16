@@ -25,6 +25,7 @@
 [![My Skills](https://skillicons.dev/icons?i=cloudflare,gcp,redhat,github,gitlab,jenkins&theme=light)]()
 <br/>
 <img alt="elastic stack" src="https://cdn.freebiesupply.com/logos/large/2x/elastic-stack-logo-png-transparent.png" width="46px" height="46px">
+<img alt="new relic" src="https://okitup.com/wp-content/uploads/2024/07/NewReliclogo2.jpg" height="46px">
 <img alt="sonarqube" src="https://rtfm.co.ua/wp-content/uploads/2019/06/sonarqube-logo.png" width="46px" height="46px">
 <img alt="nexus" src="https://www.sonatype.com/hubfs/2-2023-Product%20Logos/sonatype-repo-icon.png" width="46px" height="46px">
 <a href="https://istio.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" alt="Istio" width="40" height="40"/> </a>
@@ -41,7 +42,6 @@
 <img alt="elastic stack" src="https://www.svgrepo.com/show/353978/kong-icon.svg" width="38px" height="38px">
 <img alt="elastic stack" src="https://www.brighttalk.com/wp-content/uploads/2019/10/Nutanix-icon.jpg" height="52px">
 <img alt="elastic stack" src="https://github.com/user-attachments/assets/0a710c60-198e-4e47-be87-301057c26d7b" height="52px">
-<img alt="elastic stack" src="https://okitup.com/wp-content/uploads/2024/07/NewReliclogo2.jpg" height="52px">
 
 
 
