@@ -41,6 +41,8 @@
 <img alt="elastic stack" src="https://www.svgrepo.com/show/353978/kong-icon.svg" width="38px" height="38px">
 <img alt="elastic stack" src="https://www.brighttalk.com/wp-content/uploads/2019/10/Nutanix-icon.jpg" height="52px">
 <img alt="elastic stack" src="https://github.com/user-attachments/assets/0a710c60-198e-4e47-be87-301057c26d7b" height="52px">
+<img alt="elastic stack" src="https://okitup.com/wp-content/uploads/2024/07/NewReliclogo2.jpg" height="52px">
+
 
 
 </p>
