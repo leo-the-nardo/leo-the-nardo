@@ -18,7 +18,7 @@
 <br/>
 [![My Skills](https://skillicons.dev/icons?i=rabbitmq,kafka,graphql,redis,mysql,postgresql,dynamodb,mongodb,elasticsearch&theme=light)]()
 
-**DevOps/Infra/SRE**
+**DevOps & SRE**
 
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,grafana,prometheus,nginx,ansible,terraform)]()
 <br/>
