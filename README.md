@@ -37,8 +37,8 @@
 <img alt="elastic stack" src="https://blog.zachinachshon.com/assets/images/containers/k3s/k3s-blog-220x230.png" width="46px" height="46px">
 <img alt="elastic stack" src="https://www.ajfriesen.com/content/images/2021/06/featured-2.png" height="38px">
 <img alt="elastic stack" src="https://the.binbashtheory.com/rke-logo.png" height="46px">
-<img src="http://thinkmicroservices.com/img/kubernetes/amazon-eks.png" alt="EKS" width="" height="70"/>
 <br/>
+<img src="http://thinkmicroservices.com/img/kubernetes/amazon-eks.png" alt="EKS" width="" height="70"/>
 <img alt="elastic stack" src="https://www.svgrepo.com/show/353978/kong-icon.svg" width="38px" height="38px">
 <img alt="elastic stack" src="https://www.brighttalk.com/wp-content/uploads/2019/10/Nutanix-icon.jpg" height="52px">
 <img alt="elastic stack" src="https://github.com/user-attachments/assets/0a710c60-198e-4e47-be87-301057c26d7b" height="52px">
