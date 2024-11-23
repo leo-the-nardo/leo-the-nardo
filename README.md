@@ -100,4 +100,4 @@
         <img src="https://img.shields.io/badge/Gitlab-FF7D19.svg?style=for-the-badge&logo=gitlab&logoColor=white">
     </a>
 </div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-the-nardo&hide=html,powershell,shell,css&size_weight=0.1&count_weight=0&langs_count=5&layout=compact&theme=default">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-the-nardo&hide=html,powershell,shell,css&size_weight=0.03&count_weight=0&langs_count=5&layout=compact&theme=default">
