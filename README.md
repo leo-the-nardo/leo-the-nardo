@@ -45,12 +45,10 @@
 <img alt="elastic stack" src="https://github.com/user-attachments/assets/0a710c60-198e-4e47-be87-301057c26d7b" height="52px">
 
 
-
-</p>
-
 **Data Engineering**
 
-<img alt="elastic stack" src="https://github.com/apache/airflow/raw/19ebcac2395ef9a6b6ded3a2faa29dc960c1e635/docs/apache-airflow/img/logos/wordmark_1.png?raw=true" height="40"> <img alt="elastic stack" src="https://i0.wp.com/blog.dsacademy.com.br/wp-content/uploads/2023/06/Apache-Spark-logo.png?w=1200&ssl=1" height="40"> <img alt="elastic stack" src="https://camo.githubusercontent.com/e5edadcf5a70fd53f113fa35bc4ec2f994b4f811166e7685e975978cdeb9e8d8/68747470733a2f2f646f63732e64656c74612e696f2f6c61746573742f5f7374617469632f64656c74612d6c616b652d77686974652e706e67" height="40">
+<img alt="elastic stack" src="https://github.com/apache/airflow/raw/19ebcac2395ef9a6b6ded3a2faa29dc960c1e635/docs/apache-airflow/img/logos/wordmark_1.png?raw=true" height="40"/> <img alt="elastic stack" src="https://i0.wp.com/blog.dsacademy.com.br/wp-content/uploads/2023/06/Apache-Spark-logo.png?w=1200&ssl=1" height="40"/> <img alt="delta lake" src="https://camo.githubusercontent.com/e5edadcf5a70fd53f113fa35bc4ec2f994b4f811166e7685e975978cdeb9e8d8/68747470733a2f2f646f63732e64656c74612e696f2f6c61746573742f5f7374617469632f64656c74612d6c616b652d77686974652e706e67" height="40"/>  <img alt="apache avro" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_avro_logo_icon_168627.png" height="40"> <img alt="apache avro" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*HxiCknjNWjwy5yGV6frukw.png" height="40">
+
 
 
 **Front-End**
