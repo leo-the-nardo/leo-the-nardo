@@ -14,9 +14,19 @@
 
 **Back-End**
 
-[![My Skills](https://skillicons.dev/icons?i=golang,java,spring,python,flask,nodejs,nestjs,express,fastify&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=golang,java,spring,python,flask,django,nodejs,nestjs,express,fastify&theme=light)]()
 <br/>
 [![My Skills](https://skillicons.dev/icons?i=rabbitmq,kafka,graphql,redis,mysql,postgresql,dynamodb,mongodb,elasticsearch&theme=light)]()
+<br/> 
+<img alt="lambda function" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Compute/64/Arch_AWS-Lambda_64.svg" width="46px" height="46px">
+<img alt="amazon api gateway" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_App-Integration/Arch_48/Arch_%20Amazon-API-Gateway_48.svg" width="46px" height="46px">
+<img alt="amazon rds" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Database/64/Arch_Amazon-RDS_64.svg" width="46px" height="46px">
+<img alt="cloudfront cdn" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Networking-Content-Delivery/64/Arch_Amazon-CloudFront_64.svg" width="46px" height="46px">
+<img alt="amazon dynamodb" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Database/64/Arch_Amazon-DynamoDB_64.svg" width="46px" height="46px">
+<img alt="amazon sns" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_App-Integration/Arch_64/Arch_Amazon-Simple-Notification-Service_64.svg" width="46px" height="46px">
+<img alt="elastic beanstalk" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Compute/64/Arch_AWS-Elastic-Beanstalk_64.svg" width="46px" height="46px">
+<img alt="amazon sqs" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_App-Integration/Arch_64/Arch_Amazon-Simple-Queue-Service_64.svg" width="46px" height="46px">
+<br/> 
 
 **DevOps & SRE**
 
@@ -51,6 +61,10 @@
 <img alt="apache parquet" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*HxiCknjNWjwy5yGV6frukw.png" height="40">
 <img alt="apache iceberg" src="https://www.dremio.com/wp-content/uploads/2021/06/iceberg-logo-with-name.png" height="40">
 <img alt="minio" src="https://artifacthub.io/image/aec2a822-2a3f-41a6-8a71-57c5d75d011e@3x" height="40">
+
+<img alt="amazon kinesis" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Analytics/Arch_64/Arch_Amazon-Kinesis_64.svg" height="46"> <img alt="amazon glue" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Analytics/Arch_64/Arch_AWS-Glue_64.svg" height="46"> <img alt="lake formation" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Analytics/Arch_64/Arch_AWS-Lake-Formation_64.svg" height="46"> <img alt="athena" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Analytics/Arch_64/Arch_Amazon-Athena_64.svg" height="46"> 
+<img alt="s3" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Storage/64/Arch_Amazon-Simple-Storage-Service_64.svg" height="46">
+<img alt="ebs" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Storage/64/Arch_Amazon-Elastic-Block-Store_64.svg" height="46">
 
 
 
