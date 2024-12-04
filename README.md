@@ -62,9 +62,7 @@
 <img alt="apache iceberg" src="https://www.dremio.com/wp-content/uploads/2021/06/iceberg-logo-with-name.png" height="40">
 <img alt="minio" src="https://artifacthub.io/image/aec2a822-2a3f-41a6-8a71-57c5d75d011e@3x" height="40">
 
-<img alt="amazon kinesis" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Analytics/Arch_64/Arch_Amazon-Kinesis_64.svg" height="46"> <img alt="amazon glue" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Analytics/Arch_64/Arch_AWS-Glue_64.svg" height="46"> <img alt="lake formation" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Analytics/Arch_64/Arch_AWS-Lake-Formation_64.svg" height="46"> <img alt="athena" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Analytics/Arch_64/Arch_Amazon-Athena_64.svg" height="46"> 
-<img alt="s3" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Storage/64/Arch_Amazon-Simple-Storage-Service_64.svg" height="46">
-<img alt="ebs" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Storage/64/Arch_Amazon-Elastic-Block-Store_64.svg" height="46">
+<img alt="s3" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Storage/64/Arch_Amazon-Simple-Storage-Service_64.svg" height="46"> <img alt="amazon kinesis" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Analytics/Arch_64/Arch_Amazon-Kinesis_64.svg" height="46"> <img alt="athena" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Analytics/Arch_64/Arch_Amazon-Athena_64.svg" height="46">  <img alt="ebs" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Storage/64/Arch_Amazon-Elastic-Block-Store_64.svg" height="46"> <img alt="amazon glue" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Analytics/Arch_64/Arch_AWS-Glue_64.svg" height="46">
 
 
 
