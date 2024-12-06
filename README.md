@@ -34,6 +34,7 @@
 <br/>
 [![My Skills](https://skillicons.dev/icons?i=cloudflare,gcp,redhat,github,gitlab,jenkins&theme=light)]()
 <br/>
+<img alt="opentelemetry" src="https://seeklogo.com/images/O/opentelemetry-logo-2DC4F51D47-seeklogo.com.png" height="46px">
 <img alt="elastic stack" src="https://cdn.freebiesupply.com/logos/large/2x/elastic-stack-logo-png-transparent.png" width="46px" height="46px">
 <img alt="new relic" src="https://okitup.com/wp-content/uploads/2024/07/NewReliclogo2.jpg" height="46px">
 <img alt="sonarqube" src="https://rtfm.co.ua/wp-content/uploads/2019/06/sonarqube-logo.png" width="46px" height="46px">
