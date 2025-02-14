@@ -34,7 +34,7 @@
 <br/>
 [![My Skills](https://skillicons.dev/icons?i=cloudflare,gcp,redhat,github,gitlab,jenkins&theme=light)]()
 <br/>
-<img alt="opentelemetry" src="https://seeklogo.com/images/O/opentelemetry-logo-2DC4F51D47-seeklogo.com.png" height="46px">
+<img alt="opentelemetry" src="https://raw.githubusercontent.com/github/explore/299010f22c9b4cdbaba624be73d5b0de8e23151c/topics/opentelemetry/opentelemetry.png" height="46px">
 <img alt="elastic stack" src="https://cdn.freebiesupply.com/logos/large/2x/elastic-stack-logo-png-transparent.png" width="46px" height="46px">
 <img alt="new relic" src="https://okitup.com/wp-content/uploads/2024/07/NewReliclogo2.jpg" height="46px">
 <img alt="sonarqube" src="https://rtfm.co.ua/wp-content/uploads/2019/06/sonarqube-logo.png" width="46px" height="46px">
@@ -55,6 +55,7 @@
 <img alt="elastic stack" src="https://www.brighttalk.com/wp-content/uploads/2019/10/Nutanix-icon.jpg" height="52px">
 <img alt="elastic stack" src="https://github.com/user-attachments/assets/0a710c60-198e-4e47-be87-301057c26d7b" height="52px">
 <img alt="pulumi" src="https://lh3.googleusercontent.com/yOEQ7N4BE6gDtokTzt18shxvAHDli5XhmXPQ7gi7-xF9lihW_sh1NSrJt6LGVMfQcSU866U1TdL-ABjv0cGW=w80-h80" height="52px">
+<img alt="pulumi" src="https://blog.spikeseed.cloud/assets/images/posts/2024-01-25-karpenter/header.png" height="38px">
 
 
 **Data Engineering**
@@ -72,6 +73,14 @@
 [![My Skills](https://skillicons.dev/icons?i=ts,html,css,tailwind,react,next)]()
 
 
+**AI & ML Ops**
+
+<img alt="pytorch" src="https://venturebeat.com/wp-content/uploads/2022/12/PyTorch-logo_120222.jpg?w=750" height="32"> <img alt="tensorrt" src="https://docscontent.nvidia.com/dims4/default/31e9ab4/2147483647/strip/true/crop/980x552+105+0/resize/1000x563!/quality/90/?url=https%3A%2F%2Fk3-prod-nvidia-docs.s3.us-west-2.amazonaws.com%2Fbrightspot%2F1e%2Fcb%2F053bae0a4f15a0672037a721be67%2Ftensorrt-logo.png" height="32"> <img alt="roboflow" src="https://d7umqicpi7263.cloudfront.net/img/product/8305253e-2066-4396-9e9a-f0f9b97e75b9.png" height="32"> <img alt="onxx" src="https://miro.medium.com/v2/resize:fit:1200/1*B2T8bycSeIhPFooIwGf8fw.png" height="48"> <img alt="opencv" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/OpenCV_logo_black.svg/1200px-OpenCV_logo_black.svg.png" height="48"> <img alt="numpy" src="https://neuraspike.com/wp-content/uploads/2020/11/thumbnail_numpy_tutorial_logo-neuraspike.png.png" height="48"> 
+
+<img alt="kubeflow" src="https://user-images.githubusercontent.com/5319646/37641015-10cb00f6-2c53-11e8-9195-65f2dbc60955.jpg" height="45"> <img alt="sagemaker" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Machine-Learning/64/Arch_Amazon-SageMaker_64.svg" height="45"> <img alt="torchvision" src="https://torch.mlverse.org/css/images/hex/torchvision.png" height="45"> <img alt="cuda" src="https://www.incredibuild.com/wp-content/uploads/2021/03/Asset-1901-1.png" height="45"> <img alt="yolo" src="https://i2.wp.com/miro.medium.com/v2/resize:fit:669/1*j25XlCGyVIqwk-c6BQMo_g.png?w=535&resize=535,276&ssl=1" height="45"> <img alt="labelstudio" src="https://labelstud.io/og-image.png" height="45">
+
+
+
 **Utilities**
 
 [![My Skills](https://skillicons.dev/icons?i=postman,vim,idea,vscode,linux,bash)]()
@@ -82,8 +91,8 @@
 <img alt="bigquery" src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" height="38px">
 <img alt="dbt" src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" height="38px">
 <img alt="snowflake" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" height="30px">
-
-<img alt="kubeflow" src="https://user-images.githubusercontent.com/5319646/37641015-10cb00f6-2c53-11e8-9195-65f2dbc60955.jpg" height="45"> <img alt="vertex ai" src="https://miro.medium.com/v2/resize:fit:786/format:webp/1*r-iod_ZxZQLy_dFoay52cA.png" height="45"> <img alt="sagemaker" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Machine-Learning/64/Arch_Amazon-SageMaker_64.svg" height="45"> <img alt="sagemaker" src="https://upload.wikimedia.org/wikipedia/commons/archive/6/63/20230109143553%21Databricks_Logo.png" height="45">
+<img alt="vertex ai" src="https://miro.medium.com/v2/resize:fit:786/format:webp/1*r-iod_ZxZQLy_dFoay52cA.png" height="45">
+<img alt="sagemaker" src="https://upload.wikimedia.org/wikipedia/commons/archive/6/63/20230109143553%21Databricks_Logo.png" height="45">
 
 <br/>
 
