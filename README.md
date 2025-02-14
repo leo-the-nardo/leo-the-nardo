@@ -28,6 +28,8 @@
 <img alt="amazon sqs" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_App-Integration/Arch_64/Arch_Amazon-Simple-Queue-Service_64.svg" width="46px" height="46px">
 <br/> 
 
+<br/>
+
 **DevOps & SRE**
 
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,grafana,prometheus,nginx,ansible,terraform)]()
@@ -56,7 +58,9 @@
 <img alt="elastic stack" src="https://github.com/user-attachments/assets/0a710c60-198e-4e47-be87-301057c26d7b" height="52px">
 <img alt="pulumi" src="https://lh3.googleusercontent.com/yOEQ7N4BE6gDtokTzt18shxvAHDli5XhmXPQ7gi7-xF9lihW_sh1NSrJt6LGVMfQcSU866U1TdL-ABjv0cGW=w80-h80" height="52px">
 <img alt="pulumi" src="https://blog.spikeseed.cloud/assets/images/posts/2024-01-25-karpenter/header.png" height="38px">
+<br/> 
 
+<br/>
 
 **Data Engineering**
 
@@ -64,21 +68,24 @@
 <img alt="elastic stack" src="https://github.com/apache/airflow/raw/19ebcac2395ef9a6b6ded3a2faa29dc960c1e635/docs/apache-airflow/img/logos/wordmark_1.png?raw=true" height="40"/> <img alt="elastic stack" src="https://i0.wp.com/blog.dsacademy.com.br/wp-content/uploads/2023/06/Apache-Spark-logo.png?w=1200&ssl=1" height="40"/> <img alt="amazon kinesis" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Analytics/Arch_64/Arch_Amazon-Kinesis_64.svg" height="46">
 
 <img alt="apache parquet" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*HxiCknjNWjwy5yGV6frukw.png" height="40"> <img alt="delta lake" src="https://camo.githubusercontent.com/e5edadcf5a70fd53f113fa35bc4ec2f994b4f811166e7685e975978cdeb9e8d8/68747470733a2f2f646f63732e64656c74612e696f2f6c61746573742f5f7374617469632f64656c74612d6c616b652d77686974652e706e67" height="40"/> <img alt="apache iceberg" src="https://www.dremio.com/wp-content/uploads/2021/06/iceberg-logo-with-name.png" height="40">  <img alt="s3" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Storage/64/Arch_Amazon-Simple-Storage-Service_64.svg" height="46"> <img alt="minio" src="https://artifacthub.io/image/aec2a822-2a3f-41a6-8a71-57c5d75d011e@3x" height="40"> <img alt="amazon glue" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Analytics/Arch_64/Arch_AWS-Glue_64.svg" height="46">  <img alt="athena" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Analytics/Arch_64/Arch_Amazon-Athena_64.svg" height="46"> 
+<br/> 
 
-
+<br/>
 
 **Front-End**
 
 [//]: # (![alt text]&#40;./assets/icons/nextjs/nextjs-original-wordmark.svg "Logo Title Text 1"&#41;)
 [![My Skills](https://skillicons.dev/icons?i=ts,html,css,tailwind,react,next)]()
+<br/> 
 
+<br/>
 
 **AI & ML Ops**
 
 <img alt="pytorch" src="https://venturebeat.com/wp-content/uploads/2022/12/PyTorch-logo_120222.jpg?w=750" height="32"> <img alt="tensorrt" src="https://docscontent.nvidia.com/dims4/default/31e9ab4/2147483647/strip/true/crop/980x552+105+0/resize/1000x563!/quality/90/?url=https%3A%2F%2Fk3-prod-nvidia-docs.s3.us-west-2.amazonaws.com%2Fbrightspot%2F1e%2Fcb%2F053bae0a4f15a0672037a721be67%2Ftensorrt-logo.png" height="32"> <img alt="roboflow" src="https://d7umqicpi7263.cloudfront.net/img/product/8305253e-2066-4396-9e9a-f0f9b97e75b9.png" height="32"> <img alt="onxx" src="https://miro.medium.com/v2/resize:fit:1200/1*B2T8bycSeIhPFooIwGf8fw.png" height="48"> <img alt="opencv" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/OpenCV_logo_black.svg/1200px-OpenCV_logo_black.svg.png" height="48"> <img alt="numpy" src="https://neuraspike.com/wp-content/uploads/2020/11/thumbnail_numpy_tutorial_logo-neuraspike.png.png" height="48"> 
 
 <img alt="kubeflow" src="https://user-images.githubusercontent.com/5319646/37641015-10cb00f6-2c53-11e8-9195-65f2dbc60955.jpg" height="45"> <img alt="sagemaker" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Machine-Learning/64/Arch_Amazon-SageMaker_64.svg" height="45"> <img alt="torchvision" src="https://torch.mlverse.org/css/images/hex/torchvision.png" height="45"> <img alt="cuda" src="https://www.incredibuild.com/wp-content/uploads/2021/03/Asset-1901-1.png" height="45"> <img alt="yolo" src="https://i2.wp.com/miro.medium.com/v2/resize:fit:669/1*j25XlCGyVIqwk-c6BQMo_g.png?w=535&resize=535,276&ssl=1" height="45"> <img alt="labelstudio" src="https://labelstud.io/og-image.png" height="45">
-
+<br/> 
 
 
 **Utilities**
