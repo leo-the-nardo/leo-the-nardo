@@ -8,7 +8,7 @@
   - Postgraduate MBA in FullCycle Architeture ( Software Arch | Devops & SRE | Solution Arch )
   - Postgraduate Specialization in Machine Learning & MLOps
   - Technologist in Software Analysis and Development
-- I'm actually a Software Engineer focusing on Cloud Computing & SRE.
+- I'm actually a Software Engineer focusing on Cloud Computing & Machine Learning.
 - One Piece Obsessed.
 - Deep interest in Software Architecture, System Design and DevOps practices.
 ## My Tech Stack
