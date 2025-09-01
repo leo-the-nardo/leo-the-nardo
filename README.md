@@ -118,7 +118,7 @@
 
 **Badges**
 
-<img alt="aws solutions architect" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="150px"> <img alt="CKA kuberntes administrator" src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" height="160px"> <img alt="gcp cloud engineer" src="https://images.credly.com/size/340x340/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" height="140px"> 
+<img alt="aws solutions architect" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="150px"> <img alt="gcp cloud engineer" src="https://images.credly.com/size/340x340/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" height="140px"> <img alt="aws data engineer" src="https://images.credly.com/size/680x680/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png" height="150px">  <img alt="CKA kuberntes administrator" src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" height="160px">
 
 **Social**
 
