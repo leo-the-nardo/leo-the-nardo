@@ -134,4 +134,4 @@
 </div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-the-nardo&hide=html,powershell,shell,css&size_weight=0.03&count_weight=0&langs_count=5&layout=compact&theme=default">
 
-___Soli Deo Gloria___
+___the being alive is the blessing___
