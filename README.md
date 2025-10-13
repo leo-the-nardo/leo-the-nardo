@@ -17,7 +17,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=golang,java,spring,python,flask,django,nodejs,nestjs,express,fastify&theme=light)]()
 <br/>
-[![My Skills](https://skillicons.dev/icons?i=rabbitmq,kafka,graphql,redis,mysql,postgresql,dynamodb,mongodb,elasticsearch&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=rabbitmq,kafka,graphql,redis,mysql,postgresql,dynamodb,mongodb,elasticsearch,cassandra&theme=light)]()
 <br/> 
 <img alt="lambda function" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Compute/64/Arch_AWS-Lambda_64.svg" width="46px" height="46px">
 <img alt="amazon api gateway" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_App-Integration/Arch_48/Arch_%20Amazon-API-Gateway_48.svg" width="46px" height="46px">
@@ -95,13 +95,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=postman,vim,idea,vscode,linux,bash)]()
 
-**Pretty interessed (soon)**
-
-[![My Skills](https://skillicons.dev/icons?i=cassandra,openshift&theme=light)]()
-<img alt="bigquery" src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" height="38px">
-<img alt="dbt" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/dbt-ytv7trkoaqcnvr5yxcvvk.png/dbt-384wi7nth5d4pvytczw6vn.png" height="38px">
-<img alt="snowflake" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" height="30px">
-<img alt="vertex ai" src="https://miro.medium.com/v2/resize:fit:786/format:webp/1*r-iod_ZxZQLy_dFoay52cA.png" height="45">
 
 <br/>
 
