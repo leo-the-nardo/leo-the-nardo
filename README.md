@@ -118,7 +118,8 @@
 
 **Badges**
 
-<img alt="aws solutions architect certified" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="140px"> <img alt="aws data engineer certified" src="https://images.credly.com/size/680x680/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png" height="140px"> <img alt="aws developer certified" src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" height="140px"> <img alt="CKA kuberntes administrator" src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" height="140px"> <img alt="terraform certified associate" src="https://images.credly.com/size/680x680/images/0dc62494-dc94-469a-83af-e35309f27356/blob" height="140px"> <img alt="opentelemetry certified associate" src="https://images.credly.com/size/680x680/images/3d3f7131-83a4-4427-8a68-150ca90bcc23/blob" height="140px">
+<img alt="aws solutions architect certified" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="140px"> <img alt="aws data engineer certified" src="https://images.credly.com/size/680x680/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png" height="140px"> <img alt="aws developer certified" src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" height="140px">  
+<img alt="CKA kuberntes administrator" src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" height="140px"> <img alt="terraform certified associate" src="https://images.credly.com/size/680x680/images/0dc62494-dc94-469a-83af-e35309f27356/blob" height="140px"> <img alt="opentelemetry certified associate" src="https://images.credly.com/size/680x680/images/3d3f7131-83a4-4427-8a68-150ca90bcc23/blob" height="140px">
 
 **Social**
 
