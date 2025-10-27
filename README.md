@@ -37,7 +37,7 @@
 <br/>
 [![My Skills](https://skillicons.dev/icons?i=cloudflare,gcp,redhat,github,gitlab,jenkins&theme=light)]()
 <br/>
-<img alt="opentelemetry" src="https://raw.githubusercontent.com/github/explore/299010f22c9b4cdbaba624be73d5b0de8e23151c/topics/opentelemetry/opentelemetry.png" height="46px">
+<img alt="opentelemetry" src="https://icon.icepanel.io/Technology/svg/OpenTelemetry.svg" height="46px">
 <img alt="datadog" src="https://imgix.datadoghq.com/img/about/presskit/logo-v/dd_vertical_white.png" width="46px" height="46px">
 <img alt="elastic stack" src="https://cdn.freebiesupply.com/logos/large/2x/elastic-stack-logo-png-transparent.png" width="46px" height="46px">
 <img alt="new relic" src="https://okitup.com/wp-content/uploads/2024/07/NewReliclogo2.jpg" height="46px">
@@ -52,7 +52,6 @@
 <a href="https://backstage.io/" target="_blank" rel="noreferrer"> <img src="https://backstage.io/logo_assets/svg/Icon_Gradient.svg" alt="backstage" width="40" height="40"/> </a>
 <img alt="k3s" src="https://blog.zachinachshon.com/assets/images/containers/k3s/k3s-blog-220x230.png" width="46px" height="46px">
 <img alt="argo cd" src="https://www.ajfriesen.com/content/images/2021/06/featured-2.png" height="38px">
-<img alt="rancher" src="https://the.binbashtheory.com/rke-logo.png" height="46px">
 <br/>
 <img src="http://thinkmicroservices.com/img/kubernetes/amazon-eks.png" alt="EKS" width="" height="70"/>
 <img alt="kong" src="https://www.svgrepo.com/show/353978/kong-icon.svg" width="38px" height="38px">
@@ -65,7 +64,7 @@
 
 **Data Engineering**
 
-<img alt="pinot" src="https://pbs.twimg.com/profile_images/1765011034769678336/2cJ1c1M7_400x400.png" height="38px"> <img alt="kafka" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*3UxZoSLavhzV_wmGprUnIw.png" height="38px"> <img alt="elastic stack" src="https://github.com/apache/airflow/raw/19ebcac2395ef9a6b6ded3a2faa29dc960c1e635/docs/apache-airflow/img/logos/wordmark_1.png?raw=true" height="40"/> <img alt="clickhouse" src="https://clickhouse.com/_next/static/media/logo-full.ac8102d5.svg" height="30px"> <img alt="elastic stack" src="https://i0.wp.com/blog.dsacademy.com.br/wp-content/uploads/2023/06/Apache-Spark-logo.png?w=1200&ssl=1" height="40"/> <img alt="amazon kinesis" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Analytics/Arch_64/Arch_Amazon-Kinesis_64.svg" height="46">
+<img alt="pinot" src="https://pbs.twimg.com/profile_images/1765011034769678336/2cJ1c1M7_400x400.png" height="38px"> <img alt="kafka" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*3UxZoSLavhzV_wmGprUnIw.png" height="38px"> <img alt="apache airflow" src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" height="40"/> <img alt="clickhouse" src="https://clickhouse.com/_next/static/media/logo-full.ac8102d5.svg" height="30px"> <img alt="elastic stack" src="https://i0.wp.com/blog.dsacademy.com.br/wp-content/uploads/2023/06/Apache-Spark-logo.png?w=1200&ssl=1" height="40"/> <img alt="amazon kinesis" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Analytics/Arch_64/Arch_Amazon-Kinesis_64.svg" height="46">
 
 <img alt="apache parquet" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*HxiCknjNWjwy5yGV6frukw.png" height="40"> <img alt="delta lake" src="https://www.databricks.com/wp-content/uploads/2019/09/delta-lake-logo.png" height="40"/> <img alt="apache iceberg" src="https://www.dremio.com/wp-content/uploads/2021/06/iceberg-logo-with-name.png" height="40">  <img alt="s3" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Storage/64/Arch_Amazon-Simple-Storage-Service_64.svg" height="46"> <img alt="minio" src="https://artifacthub.io/image/aec2a822-2a3f-41a6-8a71-57c5d75d011e@3x" height="40"> <img alt="amazon glue" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Analytics/Arch_64/Arch_AWS-Glue_64.svg" height="46">  <img alt="athena" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Analytics/Arch_64/Arch_Amazon-Athena_64.svg" height="46"> <img alt="pandas" src="https://miro.medium.com/v2/resize:fit:770/1*pJnfAWcDbz7qnQr7at3jkw.png" height="35">  <img alt="databricks" src="https://upload.wikimedia.org/wikipedia/commons/archive/6/63/20230109143553%21Databricks_Logo.png" height="45">
 <br/> 
@@ -91,11 +90,6 @@
 
 <br/> 
 
-**Utilities**
-
-[![My Skills](https://skillicons.dev/icons?i=postman,vim,idea,vscode,linux,bash)]()
-
-
 <br/>
 
 ## Technology-Agnostic Knowledges
@@ -111,8 +105,10 @@
 
 **Badges**
 
-<img alt="aws solutions architect certified" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="140px"> <img alt="aws data engineer certified" src="https://images.credly.com/size/680x680/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png" height="140px"> <img alt="aws developer certified" src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" height="140px">  
-<img alt="CKA kuberntes administrator" src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" height="140px"> <img alt="terraform certified associate" src="https://images.credly.com/size/680x680/images/0dc62494-dc94-469a-83af-e35309f27356/blob" height="140px"> <img alt="opentelemetry certified associate" src="https://images.credly.com/size/680x680/images/3d3f7131-83a4-4427-8a68-150ca90bcc23/blob" height="140px">
+<img alt="aws solutions architect professional" src="https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" height="140px"> <img alt="aws solutions architect certified" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="140px"> 
+<img alt="aws data engineer certified" src="https://images.credly.com/size/680x680/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png" height="140px"> <img alt="aws developer certified" src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" height="140px">  
+<img alt="CKA kuberntes administrator" src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" height="140px"> <img alt="terraform certified associate" src="https://images.credly.com/size/680x680/images/0dc62494-dc94-469a-83af-e35309f27356/blob" height="140px">
+<img alt="opentelemetry certified associate" src="https://images.credly.com/size/680x680/images/3d3f7131-83a4-4427-8a68-150ca90bcc23/blob" height="140px">
 
 **Social**
 
