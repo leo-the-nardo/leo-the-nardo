@@ -6,8 +6,8 @@
 - **🏠 From**: São Paulo, Brazil.
 - **🎓 Degree**: 
   - Postgraduate MBA in FullCycle Architeture ( Software Arch | Devops & SRE | Solution Arch )
-  - Postgraduate Specialization in Machine Learning & MLOps
   - Technologist in Software Analysis and Development
+  - Postgraduate Specialization in Machine Learning & MLOps
 - I'm actually a Software Engineer focusing on Cloud Computing & Data Engineering.
 - One Piece Obsessed.
 - Deep interest in Software Architecture, System Design and DevOps practices.
