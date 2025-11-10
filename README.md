@@ -1,101 +1,111 @@
-# Hello , i'm Leo 👋
+# 👋 Hello, I'm Leo
 <img align="right" width="40%" src="./assets/757a4ed3d9e6fdf7dcbbad972bd2e72c.gif" alt="coding developer" />
 
+- 📄 **Name:** Leonardo Pinho  
+- 🏠 **From:** São Paulo, Brazil  
+- 🎓 **Degree:**
+  - Postgraduate MBA in FullCycle Architecture *(Software Arch | DevOps & SRE | Solution Arch)*
+  - Technologist in Software Analysis and Development  
+  - Postgraduate Specialization in Machine Learning & MLOps  
+- Software Engineer & Software Architect
+- Data Engineering & Machine Learning enthusiast
+- One Piece Obsessed  
+- Deep interest in Software Architecture, System Design, and DevOps Practices
 
-- 📄 **Name**: Leonardo Pinho
-- **🏠 From**: São Paulo, Brazil.
-- **🎓 Degree**: 
-  - Postgraduate MBA in FullCycle Architeture ( Software Arch | Devops & SRE | Solution Arch )
-  - Technologist in Software Analysis and Development
-  - Postgraduate Specialization in Machine Learning & MLOps
-- I'm actually a Software Engineer focusing on Data Engineering and Machine Learning.
-- One Piece Obsessed.
-- Deep interest in Software Architecture, System Design and DevOps practices.
-## My Tech Stack
 
-**Back-End**
+## 🧩 My Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=golang,java,spring,python,flask,django,nodejs,nestjs,express,fastify&theme=light)]()
-<br/>
-[![My Skills](https://skillicons.dev/icons?i=rabbitmq,kafka,graphql,redis,mysql,postgresql,dynamodb,mongodb,elasticsearch,cassandra&theme=light)]()
-<br/> 
-<img alt="lambda function" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Compute/64/Arch_AWS-Lambda_64.svg" width="46px" height="46px">
-<img alt="amazon api gateway" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_App-Integration/Arch_48/Arch_%20Amazon-API-Gateway_48.svg" width="46px" height="46px">
-<img alt="amazon rds" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Database/64/Arch_Amazon-RDS_64.svg" width="46px" height="46px">
-<img alt="cloudfront cdn" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Networking-Content-Delivery/64/Arch_Amazon-CloudFront_64.svg" width="46px" height="46px">
-<img alt="amazon dynamodb" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Database/64/Arch_Amazon-DynamoDB_64.svg" width="46px" height="46px">
-<img alt="amazon sns" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_App-Integration/Arch_64/Arch_Amazon-Simple-Notification-Service_64.svg" width="46px" height="46px">
-<img alt="elastic beanstalk" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Compute/64/Arch_AWS-Elastic-Beanstalk_64.svg" width="46px" height="46px">
-<img alt="amazon sqs" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_App-Integration/Arch_64/Arch_Amazon-Simple-Queue-Service_64.svg" width="46px" height="46px">
-<br/> 
+### ⚙️ Back-End
+[![My Skills](https://skillicons.dev/icons?i=golang,java,spring,python,flask,django,nodejs,nestjs,express,fastify&theme=light)]()<br/>
+[![My Skills](https://skillicons.dev/icons?i=rabbitmq,kafka,graphql,redis,mysql,postgresql,dynamodb,mongodb,elasticsearch,cassandra&theme=light)]()<br/>
 
-<br/>
+<div align="left">
+  <img alt="lambda" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Compute/64/Arch_AWS-Lambda_64.svg" width="46" height="46">
+  <img alt="api gateway" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_App-Integration/Arch_48/Arch_%20Amazon-API-Gateway_48.svg" width="46" height="46">
+  <img alt="rds" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Database/64/Arch_Amazon-RDS_64.svg" width="46" height="46">
+  <img alt="cloudfront" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Networking-Content-Delivery/64/Arch_Amazon-CloudFront_64.svg" width="46" height="46">
+  <img alt="dynamodb" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Database/64/Arch_Amazon-DynamoDB_64.svg" width="46" height="46">
+  <img alt="sns" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_App-Integration/Arch_64/Arch_Amazon-Simple-Notification-Service_64.svg" width="46" height="46">
+  <img alt="beanstalk" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Compute/64/Arch_AWS-Elastic-Beanstalk_64.svg" width="46" height="46">
+  <img alt="sqs" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_App-Integration/Arch_64/Arch_Amazon-Simple-Queue-Service_64.svg" width="46" height="46">
+</div>
 
-**DevOps & SRE**
 
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,grafana,prometheus,nginx,ansible,terraform)]()
-<br/>
-[![My Skills](https://skillicons.dev/icons?i=cloudflare,gcp,redhat,github,gitlab,jenkins&theme=light)]()
-<br/>
-<img alt="opentelemetry" src="https://icon.icepanel.io/Technology/svg/OpenTelemetry.svg" height="46px">
-<img alt="datadog" src="https://imgix.datadoghq.com/img/about/presskit/logo-v/dd_vertical_white.png" width="46px" height="46px">
-<img alt="elastic stack" src="https://cdn.freebiesupply.com/logos/large/2x/elastic-stack-logo-png-transparent.png" width="46px" height="46px">
-<img alt="new relic" src="https://okitup.com/wp-content/uploads/2024/07/NewReliclogo2.jpg" height="46px">
-<img alt="sonarqube" src="https://rtfm.co.ua/wp-content/uploads/2019/06/sonarqube-logo.png" width="46px" height="46px">
-<img alt="nexus" src="https://www.sonatype.com/hubfs/2-2023-Product%20Logos/sonatype-repo-icon.png" width="46px" height="46px">
-<a href="https://www.zabbix.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" alt="zabbix" width="40" height="40"/> </a>
-<a href="https://www.vaultproject.io/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/448256/vault.svg" alt="argocd" width="40" height="40"/> </a>
-<br/>
-<a href="https://argoproj.github.io/cd/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" alt="argocd" width="40" height="40"/> </a>
-<a href="https://helm.sh/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="Helm" width="40" height="40"/> </a>
-<a href="https://istio.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" alt="Istio" width="40" height="40"/> </a>
-<a href="https://backstage.io/" target="_blank" rel="noreferrer"> <img src="https://backstage.io/logo_assets/svg/Icon_Gradient.svg" alt="backstage" width="40" height="40"/> </a>
-<img alt="k3s" src="https://blog.zachinachshon.com/assets/images/containers/k3s/k3s-blog-220x230.png" width="46px" height="46px">
-<img alt="argo cd" src="https://www.ajfriesen.com/content/images/2021/06/featured-2.png" height="38px">
-<br/>
-<img src="http://thinkmicroservices.com/img/kubernetes/amazon-eks.png" alt="EKS" width="" height="70"/>
-<img alt="kong" src="https://www.svgrepo.com/show/353978/kong-icon.svg" width="38px" height="38px">
-<img alt="cilium" src="https://github.com/user-attachments/assets/0a710c60-198e-4e47-be87-301057c26d7b" height="52px">
-<img alt="pulumi" src="https://lh3.googleusercontent.com/yOEQ7N4BE6gDtokTzt18shxvAHDli5XhmXPQ7gi7-xF9lihW_sh1NSrJt6LGVMfQcSU866U1TdL-ABjv0cGW=w80-h80" height="52px">
-<img alt="pulumi" src="https://blog.spikeseed.cloud/assets/images/posts/2024-01-25-karpenter/header.png" height="38px">
-<br/> 
+### 🧰 DevOps & SRE
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,grafana,prometheus,nginx,ansible,terraform)]()<br/>
+[![My Skills](https://skillicons.dev/icons?i=cloudflare,gcp,redhat,github,gitlab,jenkins&theme=light)]()<br/>
 
-<br/>
+<div align="left">
+  <img alt="opentelemetry" src="https://icon.icepanel.io/Technology/svg/OpenTelemetry.svg" height="46">
+  <img alt="datadog" src="https://imgix.datadoghq.com/img/about/presskit/logo-v/dd_vertical_white.png" width="46" height="46">
+  <img alt="elastic stack" src="https://cdn.freebiesupply.com/logos/large/2x/elastic-stack-logo-png-transparent.png" width="46" height="46">
+  <img alt="new relic" src="https://okitup.com/wp-content/uploads/2024/07/NewReliclogo2.jpg" height="46">
+  <img alt="sonarqube" src="https://rtfm.co.ua/wp-content/uploads/2019/06/sonarqube-logo.png" width="46" height="46">
+  <img alt="nexus" src="https://www.sonatype.com/hubfs/2-2023-Product%20Logos/sonatype-repo-icon.png" width="46" height="46">
+  <a href="https://www.zabbix.com/"><img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" width="40" height="40"></a>
+  <a href="https://www.vaultproject.io/"><img src="https://www.svgrepo.com/show/448256/vault.svg" width="40" height="40"></a><br/>
+  <a href="https://argoproj.github.io/cd/"><img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" width="40" height="40"></a>
+  <a href="https://helm.sh/"><img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" width="40" height="40"></a>
+  <a href="https://istio.io"><img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" width="40" height="40"></a>
+  <a href="https://backstage.io/"><img src="https://backstage.io/logo_assets/svg/Icon_Gradient.svg" width="40" height="40"></a>
+  <img alt="k3s" src="https://blog.zachinachshon.com/assets/images/containers/k3s/k3s-blog-220x230.png" width="46" height="46">
+  <img alt="argo cd" src="https://www.ajfriesen.com/content/images/2021/06/featured-2.png" height="38">
+  <br/>
+  <img src="http://thinkmicroservices.com/img/kubernetes/amazon-eks.png" height="70" alt="EKS">
+  <img alt="kong" src="https://www.svgrepo.com/show/353978/kong-icon.svg" width="38" height="38">
+  <img alt="cilium" src="https://github.com/user-attachments/assets/0a710c60-198e-4e47-be87-301057c26d7b" height="52">
+  <img alt="pulumi" src="https://lh3.googleusercontent.com/yOEQ7N4BE6gDtokTzt18shxvAHDli5XhmXPQ7gi7-xF9lihW_sh1NSrJt6LGVMfQcSU866U1TdL-ABjv0cGW=w80-h80" height="52">
+  <img alt="karpenter" src="https://blog.spikeseed.cloud/assets/images/posts/2024-01-25-karpenter/header.png" height="38">
+</div>
 
-**Data Engineering**
 
-<img alt="pinot" src="https://pbs.twimg.com/profile_images/1765011034769678336/2cJ1c1M7_400x400.png" height="38px"> <img alt="kafka" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*3UxZoSLavhzV_wmGprUnIw.png" height="38px"> <img alt="apache airflow" src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" height="40"/> <img alt="clickhouse" src="https://clickhouse.com/_next/static/media/logo-full.ac8102d5.svg" height="30px"> <img alt="apache spark" src="https://i0.wp.com/blog.dsacademy.com.br/wp-content/uploads/2023/06/Apache-Spark-logo.png?w=1200&ssl=1" height="40"/> <img alt="amazon kinesis" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Analytics/Arch_64/Arch_Amazon-Kinesis_64.svg" height="46">
+### 📊 Data Engineering
+<div align="left">
+  <img alt="pinot" src="https://pbs.twimg.com/profile_images/1765011034769678336/2cJ1c1M7_400x400.png" height="38">
+  <img alt="kafka" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*3UxZoSLavhzV_wmGprUnIw.png" height="38">
+  <img alt="airflow" src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" height="40">
+  <img alt="clickhouse" src="https://clickhouse.com/_next/static/media/logo-full.ac8102d5.svg" height="30">
+  <img alt="spark" src="https://i0.wp.com/blog.dsacademy.com.br/wp-content/uploads/2023/06/Apache-Spark-logo.png?w=1200&ssl=1" height="40">
+  <img alt="kinesis" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Analytics/Arch_64/Arch_Amazon-Kinesis_64.svg" height="46"><br/>
+  <img alt="parquet" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*HxiCknjNWjwy5yGV6frukw.png" height="40">
+  <img alt="delta lake" src="https://www.databricks.com/wp-content/uploads/2019/09/delta-lake-logo.png" height="40">
+  <img alt="iceberg" src="https://www.dremio.com/wp-content/uploads/2021/06/iceberg-logo-with-name.png" height="40">
+  <img alt="s3" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Storage/64/Arch_Amazon-Simple-Storage-Service_64.svg" height="46">
+  <img alt="minio" src="https://artifacthub.io/image/aec2a822-2a3f-41a6-8a71-57c5d75d011e@3x" height="40">
+  <img alt="glue" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Analytics/Arch_64/Arch_AWS-Glue_64.svg" height="46">
+  <img alt="athena" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Analytics/Arch_64/Arch_Amazon-Athena_64.svg" height="46">
+  <img alt="pandas" src="https://miro.medium.com/v2/resize:fit:770/1*pJnfAWcDbz7qnQr7at3jkw.png" height="35">
+  <img alt="databricks" src="https://upload.wikimedia.org/wikipedia/commons/archive/6/63/20230109143553%21Databricks_Logo.png" height="45">
+</div>
 
-<img alt="apache parquet" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*HxiCknjNWjwy5yGV6frukw.png" height="40"> <img alt="delta lake" src="https://www.databricks.com/wp-content/uploads/2019/09/delta-lake-logo.png" height="40"/> <img alt="apache iceberg" src="https://www.dremio.com/wp-content/uploads/2021/06/iceberg-logo-with-name.png" height="40">  <img alt="s3" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Storage/64/Arch_Amazon-Simple-Storage-Service_64.svg" height="46"> <img alt="minio" src="https://artifacthub.io/image/aec2a822-2a3f-41a6-8a71-57c5d75d011e@3x" height="40"> <img alt="amazon glue" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Analytics/Arch_64/Arch_AWS-Glue_64.svg" height="46">  <img alt="athena" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Analytics/Arch_64/Arch_Amazon-Athena_64.svg" height="46"> <img alt="pandas" src="https://miro.medium.com/v2/resize:fit:770/1*pJnfAWcDbz7qnQr7at3jkw.png" height="35">  <img alt="databricks" src="https://upload.wikimedia.org/wikipedia/commons/archive/6/63/20230109143553%21Databricks_Logo.png" height="45">
-<br/> 
 
-<br/>
+### 🎨 Front-End
+[![My Skills](https://skillicons.dev/icons?i=ts,html,css,tailwind,react,next)]()<br/>
 
-**Front-End**
 
-[//]: # (![alt text]&#40;./assets/icons/nextjs/nextjs-original-wordmark.svg "Logo Title Text 1"&#41;)
-[![My Skills](https://skillicons.dev/icons?i=ts,html,css,tailwind,react,next)]()
-<br/> 
+### 🧠 AI & ML Ops
+<div align="left">
+  <img alt="databricks" src="https://upload.wikimedia.org/wikipedia/commons/archive/6/63/20230109143553%21Databricks_Logo.png" height="45">
+  <img alt="mlflow" src="https://www.bigdatawire.com/wp-content/uploads/2018/06/MLflow-logo-768x435.png" height="48">
+  <img alt="scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" height="45">
+  <img alt="tensorflow" src="https://www.techcentral.ie/wp-content/uploads/2017/08/TensorFlow_logo_web.jpg" height="45">
+  <img alt="pytorch" src="https://icon.icepanel.io/Technology/svg/PyTorch.svg" height="45">
+  <img alt="kubeflow" src="https://user-images.githubusercontent.com/5319646/37641015-10cb00f6-2c53-11e8-9195-65f2dbc60955.jpg" height="45"><br/>
+  <img alt="onnx" src="https://miro.medium.com/v2/resize:fit:1200/1*B2T8bycSeIhPFooIwGf8fw.png" height="48">
+  <img alt="opencv" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/OpenCV_logo_black.svg/1200px-OpenCV_logo_black.svg.png" height="48">
+  <img alt="numpy" src="https://icon.icepanel.io/Technology/svg/NumPy.svg" height="48">
+  <img alt="sagemaker" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Machine-Learning/64/Arch_Amazon-SageMaker_64.svg" height="45">
+  <img alt="torchvision" src="https://torch.mlverse.org/css/images/hex/torchvision.png" height="45">
+  <img alt="cuda" src="https://www.incredibuild.com/wp-content/uploads/2021/03/Asset-1901-1.png" height="45">
+  <img alt="yolo" src="https://i2.wp.com/miro.medium.com/v2/resize:fit:669/1*j25XlCGyVIqwk-c6BQMo_g.png?w=535&resize=535,276&ssl=1" height="45">
+</div>
 
-<br/>
 
-**AI & ML Ops**
-
-<img alt="databricks" src="https://upload.wikimedia.org/wikipedia/commons/archive/6/63/20230109143553%21Databricks_Logo.png" height="45"> <img alt="mlflow" src="https://www.bigdatawire.com/wp-content/uploads/2018/06/MLflow-logo-768x435.png" height="48"> <img alt="scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" height="45"> <img alt="tensorflow" src="https://www.techcentral.ie/wp-content/uploads/2017/08/TensorFlow_logo_web.jpg" height="45"> 
-
-<img alt="pytorch" src="https://icon.icepanel.io/Technology/svg/PyTorch.svg" height="45"> <img alt="kubeflow" src="https://user-images.githubusercontent.com/5319646/37641015-10cb00f6-2c53-11e8-9195-65f2dbc60955.jpg" height="45"> <img alt="roboflow" src="https://d7umqicpi7263.cloudfront.net/img/product/8305253e-2066-4396-9e9a-f0f9b97e75b9.png" height="45"> <img alt="onxx" src="https://miro.medium.com/v2/resize:fit:1200/1*B2T8bycSeIhPFooIwGf8fw.png" height="48"> <img alt="opencv" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/OpenCV_logo_black.svg/1200px-OpenCV_logo_black.svg.png" height="48"> 
-
-<img alt="numpy" src="https://icon.icepanel.io/Technology/svg/NumPy.svg" height="48"> <img alt="sagemaker" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Machine-Learning/64/Arch_Amazon-SageMaker_64.svg" height="45"> <img alt="torchvision" src="https://torch.mlverse.org/css/images/hex/torchvision.png" height="45"> <img alt="cuda" src="https://www.incredibuild.com/wp-content/uploads/2021/03/Asset-1901-1.png" height="45"> <img alt="yolo" src="https://i2.wp.com/miro.medium.com/v2/resize:fit:669/1*j25XlCGyVIqwk-c6BQMo_g.png?w=535&resize=535,276&ssl=1" height="45"> 
-
-<br/> 
-
-<br/>
-
-## Technology-Agnostic Knowledges
+## 🧭 Technology-Agnostic Knowledge
 
 - Event Driven Architeture | Multi-Tenant Architeture | Serverless Architeture | Monolithic architecture | Microsservices | Distributed Architeture
 - Clean Architeture | Domain Driven Design (DDD) | Hexagonal Architeture | MVC | CQRS
-- Principles | SOLID | KISS | DRY | YAGNI | ACID  | TDD | OOP
+- Principles | SOLID | KISS | DRY | YAGNI | ACID | TDD | OOP
 - API's | HTTP | gRPC | REST | GraphQL | REST | Webhook | Server Sent Events(SSE)
 - Deploy Strategies | CI | CD | Blue-green | Canary | Infrastructure as Code (IaC) | Containerization | A/B Testing
 - Data Lakes | Data Warehouses | Data Mesh | Data Lakehouse | ETL | ELT | Feature Stores | Change Data Capture (CDC) | Change Data Feed (CDF) | Streaming | Batch
@@ -103,35 +113,29 @@
 - Observability | APM | Distributed Tracing | Monitoring | Session Replay | Logging | ETL | Instrumentation
 - Cloud Design Patterns | Cloud Computing | Horizontal Scalling | Load Balancing | Sidecar | BFF | Bastion Host | Reliability | CAP | Circuit-Breaker | API-Gateway | Service Mesh
 
-**Badges**
 
-<img alt="aws solutions architect professional" src="https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" height="140px"> <img alt="aws machine learning specialty certified" src="https://images.credly.com/size/680x680/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png" height="140px"> <img alt="aws solutions architect certified" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="140px"> 
-<img alt="aws data engineer certified" src="https://images.credly.com/size/680x680/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png" height="140px"> <img alt="aws developer certified" src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" height="140px">  
-<img alt="CKA kuberntes administrator" src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" height="140px"> <img alt="terraform certified associate" src="https://images.credly.com/size/680x680/images/0dc62494-dc94-469a-83af-e35309f27356/blob" height="140px">
-<img alt="opentelemetry certified associate" src="https://images.credly.com/size/680x680/images/3d3f7131-83a4-4427-8a68-150ca90bcc23/blob" height="130px"> <img alt="kafka data streaming engineer certified" src="https://images.ctfassets.net/gt6dp23g0g38/G99yszmhBSAgj1oEiwvNh/3e77ad2eab847d00e66cc09673d0cf6d/Data_Streaming_Engineer_Badge.png?w=290&h=327&q=100&fm=webp&bg=transparent" height="135px">
-
-
-**Social**
-
-<div>
-    <a target='_blank' href="https://www.linkedin.com/in/leonardo-pinho-09429b262/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a target='_blank' href="https://discord.com/users/206650261173829642">
-        <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
-    </a>
-    <a target='_blank' href="https://gitlab.com/leothenardo">
-        <img src="https://img.shields.io/badge/Gitlab-FF7D19.svg?style=for-the-badge&logo=gitlab&logoColor=white">
-    </a>
+## 🏅 Badges
+<div align="left">
+  <img alt="aws solutions architect professional" src="https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" height="140">
+  <img alt="aws ml specialty" src="https://images.credly.com/size/680x680/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png" height="140">
+  <img alt="aws sa" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="140">
+  <img alt="aws de" src="https://images.credly.com/size/680x680/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png" height="140">
+  <img alt="aws developer" src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" height="140">
+  <img alt="cka" src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" height="140">
+  <img alt="terraform" src="https://images.credly.com/size/680x680/images/0dc62494-dc94-469a-83af-e35309f27356/blob" height="140">
+  <img alt="opentelemetry" src="https://images.credly.com/size/680x680/images/3d3f7131-83a4-4427-8a68-150ca90bcc23/blob" height="130">
+  <img alt="kafka" src="https://images.ctfassets.net/gt6dp23g0g38/G99yszmhBSAgj1oEiwvNh/3e77ad2eab847d00e66cc09673d0cf6d/Data_Streaming_Engineer_Badge.png?w=290&h=327&q=100&fm=webp&bg=transparent" height="135">
 </div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-the-nardo&hide=html,powershell,shell,css&size_weight=0.03&count_weight=0&langs_count=5&layout=compact&theme=default">
 
 
+## 🌐 Social
+<div align="left">
+  <a href="https://www.linkedin.com/in/leonardo-pinho-09429b262/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://discord.com/users/206650261173829642"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://gitlab.com/leothenardo"><img src="https://img.shields.io/badge/Gitlab-FF7D19.svg?style=for-the-badge&logo=gitlab&logoColor=white"></a>
+</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-the-nardo&hide=html,powershell,shell,css&size_weight=0.03&count_weight=0&langs_count=5&layout=compact&theme=default" />
 
-  <br/>
-<br/>
 
-  
-  
-___And then I heard every creature in heaven and on earth and under the earth and in the sea.   
-They sang: “Blessing and honor and glory and power belong to the one sitting on the throne and to the Lamb forever and ever.”___
+> _And then I heard every creature in heaven and on earth and under the earth and in the sea._  
+> _They sang: Blessing and honor and glory and power belong to the one sitting on the throne and to the Lamb forever and ever_ 
