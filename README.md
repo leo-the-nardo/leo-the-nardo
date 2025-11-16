@@ -34,7 +34,6 @@
 ### 🧰 DevOps & SRE
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,grafana,prometheus,nginx,ansible,terraform)]()<br/>
 [![My Skills](https://skillicons.dev/icons?i=cloudflare,gcp,redhat,github,gitlab,jenkins&theme=light)]()<br/>
-
 <div align="left">
   <img alt="opentelemetry" src="https://icon.icepanel.io/Technology/svg/OpenTelemetry.svg" height="46">
   <img alt="datadog" src="https://imgix.datadoghq.com/img/about/presskit/logo-v/dd_vertical_white.png" width="46" height="46">
@@ -86,7 +85,7 @@
 ### 🧠 AI & ML Ops
 <div align="left">
   <img alt="databricks" src="https://upload.wikimedia.org/wikipedia/commons/archive/6/63/20230109143553%21Databricks_Logo.png" height="45">
-  <img alt="mlflow" src="https://www.bigdatawire.com/wp-content/uploads/2018/06/MLflow-logo-768x435.png" height="48">
+  <img alt="mlflow" src="https://www.databricks.com/sites/default/files/2023-03/managedmlfow-header.svg?v=1678448848" height="48">
   <img alt="scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" height="45">
   <img alt="tensorflow" src="https://www.techcentral.ie/wp-content/uploads/2017/08/TensorFlow_logo_web.jpg" height="45">
   <img alt="pytorch" src="https://icon.icepanel.io/Technology/svg/PyTorch.svg" height="45">
@@ -109,7 +108,7 @@
 - API's | HTTP | gRPC | REST | GraphQL | REST | Webhook | Server Sent Events(SSE)
 - Deploy Strategies | CI | CD | Blue-green | Canary | Infrastructure as Code (IaC) | Containerization | A/B Testing
 - Data Lakes | Data Warehouses | Data Mesh | Data Lakehouse | ETL | ELT | Feature Stores | Change Data Capture (CDC) | Change Data Feed (CDF) | Streaming | Batch
-- Machine Learning | Classification Models | K-Nearest Neighbors (KNN) | Random Forest | Gradient Boosting | Transformers | Convolutional Neural Network (CNN) | Feature Engineering | Data Augmentations
+- Machine Learning | Classification Models | Decision Tree | K-Nearest Neighbors (KNN) | Random Forest | Computer Vision | Gradient Boosting | Transformers | Convolutional Neural Network (CNN) | Feature Engineering | Data Augmentations
 - Observability | APM | Distributed Tracing | Monitoring | Session Replay | Logging | ETL | Instrumentation
 - Cloud Design Patterns | Cloud Computing | Horizontal Scalling | Load Balancing | Sidecar | BFF | Bastion Host | Reliability | CAP | Circuit-Breaker | API-Gateway | Service Mesh
 
@@ -124,7 +123,9 @@
   <img alt="cka" src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" height="140">
   <img alt="terraform" src="https://images.credly.com/size/680x680/images/0dc62494-dc94-469a-83af-e35309f27356/blob" height="140">
   <img alt="kafka" src="https://images.ctfassets.net/gt6dp23g0g38/G99yszmhBSAgj1oEiwvNh/3e77ad2eab847d00e66cc09673d0cf6d/Data_Streaming_Engineer_Badge.png?w=290&h=327&q=100&fm=webp&bg=transparent" height="135">
-  <img alt="opentelemetry" src="https://images.credly.com/size/680x680/images/3d3f7131-83a4-4427-8a68-150ca90bcc23/blob" height="130">
+<img alt="spark" src="https://templates.images.credential.net/17613135893578012782177778849181.png" height="140">
+<img alt="opentelemetry" src="https://images.credly.com/size/680x680/images/3d3f7131-83a4-4427-8a68-150ca90bcc23/blob" height="130">
+
 </div>
 
 
