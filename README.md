@@ -124,7 +124,7 @@
   <img alt="aws developer" src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" height="140"><br/>
   <img alt="cka" src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" height="140">
   <img alt="terraform" src="https://images.credly.com/size/680x680/images/0dc62494-dc94-469a-83af-e35309f27356/blob" height="140">
-  <img alt="kafka" src="https://images.ctfassets.net/gt6dp23g0g38/G99yszmhBSAgj1oEiwvNh/3e77ad2eab847d00e66cc09673d0cf6d/Data_Streaming_Engineer_Badge.png?w=290&h=327&q=100&fm=webp&bg=transparent" height="135">
+  <img alt="kafka" src="https://templates.images.credential.net/17447523606354706804262413388000.png" height="155">
 <img alt="spark" src="https://templates.images.credential.net/17613135893578012782177778849181.png" height="140">
 <img alt="opentelemetry" src="https://images.credly.com/size/680x680/images/3d3f7131-83a4-4427-8a68-150ca90bcc23/blob" height="130">
 
