@@ -6,7 +6,8 @@
 - 🎓 **Degree:**
   - Postgraduate MBA in FullCycle Architecture *(Software Arch | DevOps & SRE | Solution Arch)*
   - Technologist in Software Analysis and Development  
-  - Postgraduate Specialization in Machine Learning & MLOps  
+  - Postgraduate Specialization in Machine Learning & MLOps at Data Science Academy
+  - University Extension at UniCamp in Data Science of Data Minning & Predictive Learning
 - Software Engineer & Software Architect
 - Data Engineering & Machine Learning enthusiast
 - One Piece Obsessed  
