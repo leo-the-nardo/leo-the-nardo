@@ -94,7 +94,7 @@
   <img alt="kubeflow" src="https://user-images.githubusercontent.com/5319646/37641015-10cb00f6-2c53-11e8-9195-65f2dbc60955.jpg" height="45"><br/>
   <img alt="onnx" src="https://miro.medium.com/v2/resize:fit:1200/1*B2T8bycSeIhPFooIwGf8fw.png" height="48">
   <img alt="opencv" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/OpenCV_logo_black.svg/1200px-OpenCV_logo_black.svg.png" height="48">
-  <img alt="numpy" src="https://icon.icepanel.io/Technology/svg/NumPy.svg" height="48">
+  <img alt="numpy" src="https://icon.icepanel.io/Technology/svg/NumPy.svg" width="48" height="48">
   <img alt="sagemaker" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Machine-Learning/64/Arch_Amazon-SageMaker_64.svg" height="45">
   <img alt="torchvision" src="https://torch.mlverse.org/css/images/hex/torchvision.png" height="45">
   <img alt="cuda" src="https://www.incredibuild.com/wp-content/uploads/2021/03/Asset-1901-1.png" height="45">
