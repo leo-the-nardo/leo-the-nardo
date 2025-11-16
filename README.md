@@ -5,8 +5,8 @@
 - 🏠 **From:** São Paulo, Brazil  
 - 🎓 **Degree:**
   - Postgraduate MBA in FullCycle Architecture *(Software Arch | DevOps & SRE | Solution Arch)*
-  - Graduate in Software Analysis and Development  
-  - Postgraduate Specialization in Machine Learning & MLOps at DSA
+  - Graduate in Software Analysis and Development
+  - Specialist in Machine Learning & MLOps at DSA
   - University Extension at UniCamp in Data Science of Data Minning & Predictive Learning
 - Software Engineer & Software Architect
 - Data Engineering & Machine Learning enthusiast
