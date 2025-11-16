@@ -42,8 +42,8 @@
   <img alt="new relic" src="https://okitup.com/wp-content/uploads/2024/07/NewReliclogo2.jpg" height="46">
   <img alt="sonarqube" src="https://rtfm.co.ua/wp-content/uploads/2019/06/sonarqube-logo.png" width="46" height="46">
   <img alt="nexus" src="https://www.sonatype.com/hubfs/2-2023-Product%20Logos/sonatype-repo-icon.png" width="46" height="46">
-  <a href="https://www.zabbix.com/"><img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" width="40" height="40"></a>
-  <a href="https://www.vaultproject.io/"><img src="https://www.svgrepo.com/show/448256/vault.svg" width="40" height="40"></a><br/>
+  <a href="https://www.zabbix.com/"><img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" width="40" height="40"></a><br/>
+  <a href="https://www.vaultproject.io/"><img src="https://www.svgrepo.com/show/448256/vault.svg" width="40" height="40"></a>
   <a href="https://argoproj.github.io/cd/"><img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" width="40" height="40"></a>
   <a href="https://helm.sh/"><img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" width="40" height="40"></a>
   <a href="https://istio.io"><img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" width="40" height="40"></a>
