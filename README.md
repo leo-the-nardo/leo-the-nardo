@@ -65,13 +65,13 @@
   <img alt="kafka" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*3UxZoSLavhzV_wmGprUnIw.png" height="38">
   <img alt="airflow" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/apache-airflow.png" height="40">
   <img alt="flink" src="https://flink.apache.org/img/logo/png/500/flink_squirrel_500.png" height="40">
-  <img alt="clickhouse" src="https://clickhouse.com/_next/static/media/logo-full.ac8102d5.svg" height="30">
+  <img alt="clickhouse" src="https://clickhouse.com/_next/static/media/logo-full.ac8102d5.svg" height="30"><br/>
   <img alt="spark" src="https://i0.wp.com/blog.dsacademy.com.br/wp-content/uploads/2023/06/Apache-Spark-logo.png?w=1200&ssl=1" height="40">
-  <img alt="kinesis" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Analytics/Arch_64/Arch_Amazon-Kinesis_64.svg" height="46"><br/>
+  <img alt="kinesis" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Analytics/Arch_64/Arch_Amazon-Kinesis_64.svg" height="46">
   <img alt="parquet" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*HxiCknjNWjwy5yGV6frukw.png" height="40">
   <img alt="delta lake" src="https://www.databricks.com/wp-content/uploads/2019/09/delta-lake-logo.png" height="40">
   <img alt="iceberg" src="https://www.dremio.com/wp-content/uploads/2021/06/iceberg-logo-with-name.png" height="40">
-  <img alt="s3" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Storage/64/Arch_Amazon-Simple-Storage-Service_64.svg" height="46">
+  <img alt="s3" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Storage/64/Arch_Amazon-Simple-Storage-Service_64.svg" height="46"><br/>
   <img alt="minio" src="https://artifacthub.io/image/aec2a822-2a3f-41a6-8a71-57c5d75d011e@3x" height="40">
   <img alt="glue" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Analytics/Arch_64/Arch_AWS-Glue_64.svg" height="46">
   <img alt="athena" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Analytics/Arch_64/Arch_Amazon-Athena_64.svg" height="46">
@@ -91,10 +91,10 @@
   <img alt="scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" height="45">
   <img alt="tensorflow" src="https://www.techcentral.ie/wp-content/uploads/2017/08/TensorFlow_logo_web.jpg" height="45">
   <img alt="pytorch" src="https://www.svgrepo.com/show/354240/pytorch.svg" height="45">
-  <img alt="kubeflow" src="https://user-images.githubusercontent.com/5319646/37641015-10cb00f6-2c53-11e8-9195-65f2dbc60955.jpg" height="45"><br/>
+  <img alt="kubeflow" src="https://user-images.githubusercontent.com/5319646/37641015-10cb00f6-2c53-11e8-9195-65f2dbc60955.jpg" height="45">
   <img alt="onnx" src="https://miro.medium.com/v2/resize:fit:1200/1*B2T8bycSeIhPFooIwGf8fw.png" height="48">
   <img alt="opencv" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/OpenCV_logo_black.svg/1200px-OpenCV_logo_black.svg.png" height="48">
-  <img alt="numpy" src="https://icon.icepanel.io/Technology/svg/NumPy.svg" width="48" height="48">
+  <img alt="numpy" src="https://icon.icepanel.io/Technology/svg/NumPy.svg" width="48" height="48"><br/>
   <img alt="sagemaker" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Machine-Learning/64/Arch_Amazon-SageMaker_64.svg" height="45">
   <img alt="torchvision" src="https://torch.mlverse.org/css/images/hex/torchvision.png" height="45">
   <img alt="cuda" src="https://www.incredibuild.com/wp-content/uploads/2021/03/Asset-1901-1.png" height="45">
