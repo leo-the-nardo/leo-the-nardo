@@ -64,6 +64,7 @@
   <img alt="pinot" src="https://pbs.twimg.com/profile_images/1765011034769678336/2cJ1c1M7_400x400.png" height="38">
   <img alt="kafka" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*3UxZoSLavhzV_wmGprUnIw.png" height="38">
   <img alt="airflow" src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" height="40">
+  <img alt="airflow" src="https://flink.apache.org/img/logo/png/500/flink_squirrel_500.png" height="40">
   <img alt="clickhouse" src="https://clickhouse.com/_next/static/media/logo-full.ac8102d5.svg" height="30">
   <img alt="spark" src="https://i0.wp.com/blog.dsacademy.com.br/wp-content/uploads/2023/06/Apache-Spark-logo.png?w=1200&ssl=1" height="40">
   <img alt="kinesis" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Analytics/Arch_64/Arch_Amazon-Kinesis_64.svg" height="46"><br/>
