@@ -36,7 +36,7 @@
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,grafana,prometheus,nginx,ansible,terraform)]()<br/>
 [![My Skills](https://skillicons.dev/icons?i=cloudflare,gcp,redhat,github,gitlab,jenkins&theme=light)]()<br/>
 <div align="left">
-  <img alt="opentelemetry" src="https://icon.icepanel.io/Technology/svg/OpenTelemetry.svg" height="46">
+  <img alt="opentelemetry" src="https://icon.icepanel.io/Technology/svg/OpenTelemetry.svg" width="46" height="46">
   <img alt="datadog" src="https://imgix.datadoghq.com/img/about/presskit/logo-v/dd_vertical_white.png" width="46" height="46">
   <img alt="elastic stack" src="https://cdn.freebiesupply.com/logos/large/2x/elastic-stack-logo-png-transparent.png" width="46" height="46">
   <img alt="new relic" src="https://okitup.com/wp-content/uploads/2024/07/NewReliclogo2.jpg" height="46">
@@ -63,8 +63,8 @@
 <div align="left">
   <img alt="pinot" src="https://pbs.twimg.com/profile_images/1765011034769678336/2cJ1c1M7_400x400.png" height="38">
   <img alt="kafka" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*3UxZoSLavhzV_wmGprUnIw.png" height="38">
-  <img alt="airflow" src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" height="40">
-  <img alt="airflow" src="https://flink.apache.org/img/logo/png/500/flink_squirrel_500.png" height="40">
+  <img alt="airflow" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/apache-airflow.png" height="40">
+  <img alt="flink" src="https://flink.apache.org/img/logo/png/500/flink_squirrel_500.png" height="40">
   <img alt="clickhouse" src="https://clickhouse.com/_next/static/media/logo-full.ac8102d5.svg" height="30">
   <img alt="spark" src="https://i0.wp.com/blog.dsacademy.com.br/wp-content/uploads/2023/06/Apache-Spark-logo.png?w=1200&ssl=1" height="40">
   <img alt="kinesis" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Analytics/Arch_64/Arch_Amazon-Kinesis_64.svg" height="46"><br/>
@@ -90,7 +90,7 @@
   <img alt="mlflow" src="https://www.databricks.com/sites/default/files/2023-03/managedmlfow-header.svg?v=1678448848" height="48">
   <img alt="scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" height="45">
   <img alt="tensorflow" src="https://www.techcentral.ie/wp-content/uploads/2017/08/TensorFlow_logo_web.jpg" height="45">
-  <img alt="pytorch" src="https://icon.icepanel.io/Technology/svg/PyTorch.svg" height="45">
+  <img alt="pytorch" src="https://www.svgrepo.com/show/354240/pytorch.svg" height="45">
   <img alt="kubeflow" src="https://user-images.githubusercontent.com/5319646/37641015-10cb00f6-2c53-11e8-9195-65f2dbc60955.jpg" height="45"><br/>
   <img alt="onnx" src="https://miro.medium.com/v2/resize:fit:1200/1*B2T8bycSeIhPFooIwGf8fw.png" height="48">
   <img alt="opencv" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/OpenCV_logo_black.svg/1200px-OpenCV_logo_black.svg.png" height="48">
