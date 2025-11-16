@@ -17,7 +17,7 @@
 ## 🧩 My Tech Stack
 
 ### ⚙️ Back-End
-[![My Skills](https://skillicons.dev/icons?i=golang,java,spring,python,flask,django,nodejs,nestjs,express,fastify&theme=light)]()<br/>
+[![My Skills](https://skillicons.dev/icons?i=golang,java,spring,python,flask,nodejs,nestjs,express,fastify&theme=light)]()<br/>
 [![My Skills](https://skillicons.dev/icons?i=rabbitmq,kafka,graphql,redis,mysql,postgresql,dynamodb,mongodb,elasticsearch,cassandra&theme=light)]()<br/>
 
 <div align="left">
